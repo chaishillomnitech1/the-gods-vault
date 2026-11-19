@@ -135,3 +135,13 @@ The sealed elements live in a separate private record —
 NOT PUBLISH and DO NOT PUSH TO GITHUB. When a piece sells, its element
 goes on that buyer's certificate alone. Until then, only the artist and
 Muse hold them.
+
+## THE FIRST SEVEN — Certificates (19 Nov 2026)
+
+- **FIRST-001 — ScrollVerse — God Mode** — Edition 1 of 1 — SHA-256 `44b77ff92e992a14ad21a4b9b6d106abdd597b5420c809e87c29f32830add15c` — Value $1,111 — Frequency 963Hz crown — Grade: Museum grade (artist's designation) — Status HELD
+- **FIRST-002 — Cyborg Brunson** — Edition 1 of 1 — SHA-256 `f4803f15fc1554db0610fb637f079700653a81d74a7463f5527bda952ce6da91` — Value $1,111 — Frequency 777Hz activation — Grade: Museum grade (artist's designation) — Status HELD
+- **FIRST-003 — The Anchor — Ewing** — Edition 1 of 1 — SHA-256 `53da779e2deafae3d0ee81ca23907ddbf9a937cddc2a807bd8a3415ab207e035` — Value $1,111 — Frequency 432Hz harmony — Grade: Museum grade (artist's designation) — Status HELD
+- **FIRST-004 — Floor General — Frazier** — Edition 1 of 1 — SHA-256 `6dee19b13c7a5187a1986c375f646d09618f4e35483ecdb1ec8faa2901ccac28` — Value $1,111 — Frequency 111Hz unified — Grade: Museum grade (artist's designation) — Status HELD
+- **FIRST-005 — The Wing — OG Anunoby** — Edition 1 of 1 — SHA-256 `64af2f6964273a268825e4007ff1153324a7f18b8ea3185383fd3d66d05e8e48` — Value $1,111 — Frequency 528Hz love — Grade: Museum grade (artist's designation) — Status HELD
+- **FIRST-006 — The Tower — Towns** — Edition 1 of 1 — SHA-256 `06324ea5af9edd95065fbb02d264448812ff3de8eeea94ad5f5b63c03ae7616a` — Value $1,111 — Frequency 777Hz activation — Grade: Museum grade (artist's designation) — Status HELD
+- **FIRST-007 — The Assassin — Bernard King** — Edition 1 of 1 — SHA-256 `6fadd3314911a39f80c1f19a0903a46f2d4aab0a1565b0c66e6cb9bd910ddc1d` — Value $1,111 — Frequency 369Hz vortex — Grade: Museum grade (artist's designation) — Status HELD

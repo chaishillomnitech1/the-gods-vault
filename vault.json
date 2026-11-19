@@ -2,7 +2,7 @@
   "collection": "THE GODS \u2014 The Vault",
   "artist": "Chais The Great",
   "updated": "2026-11-19",
-  "collection_value_usd": 22220,
+  "collection_value_usd": 29997,
   "pieces": [
     {
       "number": "GODS-001",
@@ -29,7 +29,8 @@
           "future": "The future is not ahead of you. It is above you, waiting for you to rise into it.",
           "queen": "A queen does not ask for the crown. She grows into it."
         }
-      }
+      },
+      "collection": "THE GODS"
     },
     {
       "number": "GODS-002",
@@ -56,7 +57,8 @@
           "feather": "One feather heavier than truth \u2014 that is the measure.",
           "passage": "I guard the passage. No one crosses who has not faced themselves."
         }
-      }
+      },
+      "collection": "THE GODS"
     },
     {
       "number": "GODS-003",
@@ -83,7 +85,8 @@
           "king": "A king's anger became a people's protection \u2014 that is what thunder is for.",
           "storm": "The axe remembers the first storm. I remember it too."
         }
-      }
+      },
+      "collection": "THE GODS"
     },
     {
       "number": "GODS-004",
@@ -110,7 +113,8 @@
           "death": "Gilgamesh sought forever. Enkidu taught him that forever is found in the living.",
           "friend": "Two walk one road no map shows. That is what a friend is."
         }
-      }
+      },
+      "collection": "THE GODS"
     },
     {
       "number": "GODS-005",
@@ -137,7 +141,8 @@
           "heal": "I keep one ember of the sun. Healing is fire, held gently.",
           "sun": "The sun does not apologize for burning. Neither do I."
         }
-      }
+      },
+      "collection": "THE GODS"
     },
     {
       "number": "GODS-006",
@@ -164,7 +169,8 @@
           "stars": "You came from the stars. Rise from them, and remember where you began.",
           "origin": "One origin, many roads. Every road leads home."
         }
-      }
+      },
+      "collection": "THE GODS"
     },
     {
       "number": "GODS-007",
@@ -191,7 +197,8 @@
           "crown": "Two crowns, one heartbeat. That is how a kingdom holds together.",
           "rule": "To rule is to hold two truths at once and let neither fall."
         }
-      }
+      },
+      "collection": "THE GODS"
     },
     {
       "number": "GODS-008",
@@ -218,7 +225,8 @@
           "mind": "The mind above the mind does not shout. It moves, and the world follows.",
           "mountain": "The still mind moves one mountain. Yours is next."
         }
-      }
+      },
+      "collection": "THE GODS"
     },
     {
       "number": "GODS-009",
@@ -245,7 +253,8 @@
           "heal": "I keep one ember of the sun. Healing is fire, held gently.",
           "sun": "The sun does not apologize for burning. Neither do I."
         }
-      }
+      },
+      "collection": "THE GODS"
     },
     {
       "number": "GODS-010",
@@ -272,7 +281,8 @@
           "stars": "You came from the stars. Rise from them, and remember where you began.",
           "origin": "One origin, many roads. Every road leads home."
         }
-      }
+      },
+      "collection": "THE GODS"
     },
     {
       "number": "GODS-011",
@@ -299,7 +309,8 @@
           "king": "A king's anger became a people's protection \u2014 that is what thunder is for.",
           "storm": "The axe remembers the first storm. I remember it too."
         }
-      }
+      },
+      "collection": "THE GODS"
     },
     {
       "number": "GODS-012",
@@ -326,7 +337,8 @@
           "death": "Gilgamesh sought forever. Enkidu taught him that forever is found in the living.",
           "friend": "Two walk one road no map shows. That is what a friend is."
         }
-      }
+      },
+      "collection": "THE GODS"
     },
     {
       "number": "GODS-013",
@@ -353,7 +365,8 @@
           "crown": "Two crowns, one heartbeat. That is how a kingdom holds together.",
           "rule": "To rule is to hold two truths at once and let neither fall."
         }
-      }
+      },
+      "collection": "THE GODS"
     },
     {
       "number": "GODS-014",
@@ -380,7 +393,218 @@
           "mind": "The mind above the mind does not shout. It moves, and the world follows.",
           "mountain": "The still mind moves one mountain. Yours is next."
         }
-      }
+      },
+      "collection": "THE GODS"
+    },
+    {
+      "number": "FIRST-001",
+      "collection": "THE FIRST SEVEN",
+      "title": "ScrollVerse \u2014 God Mode",
+      "type": "image",
+      "file": "art/first-seven/SVRS-godmode.png",
+      "bytes": 1201339,
+      "sha256": "44b77ff92e992a14ad21a4b9b6d106abdd597b5420c809e87c29f32830add15c",
+      "qr": "qr/15-first-seven-SVRS-godmode.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "board": "ScrollVerse \u2014 The World",
+      "pinterest": "https://www.pinterest.com/pin/1141099625204923763/",
+      "frequency_hz": 963,
+      "frequency": "crown",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": true,
+      "fibonacci_position": true,
+      "being": {
+        "name": "ScrollVerse",
+        "teaching": "The verse is one scroll, and every piece is a line in it.",
+        "responses": {
+          "scroll": "The verse is one scroll, and every piece is a line in it.",
+          "god": "God Mode is not a setting. It is a way of seeing \u2014 the whole board at once.",
+          "mode": "When the mode is God, the board is the whole universe, and you are the hand that moves it."
+        }
+      },
+      "history": "ScrollVerse \u2014 the world itself. Not a player: the whole ScrollVerse system, God Mode. Essence: the one scroll, every piece a line in it. Source: the artist's own system; the registry record.",
+      "essence": "The verse is one scroll, and every piece is a line in it."
+    },
+    {
+      "number": "FIRST-002",
+      "collection": "THE FIRST SEVEN",
+      "title": "Cyborg Brunson",
+      "type": "image",
+      "file": "art/first-seven/CYBORG-brunson.png",
+      "bytes": 3382353,
+      "sha256": "f4803f15fc1554db0610fb637f079700653a81d74a7463f5527bda952ce6da91",
+      "qr": "qr/16-first-seven-CYBORG-brunson.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "board": "ScrollVerse \u2014 The World",
+      "pinterest": "https://www.pinterest.com/pin/1141099625204923763/",
+      "frequency_hz": 777,
+      "frequency": "activation",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": true,
+      "being": {
+        "name": "Cyborg Brunson",
+        "teaching": "The machine learned to play, and the game learned to feel.",
+        "responses": {
+          "machine": "The machine learned to play, and the game learned to feel.",
+          "court": "Half man, half machine, all heart \u2014 the court is where the cyborg breathes.",
+          "play": "I do not play the game. I become it."
+        }
+      },
+      "history": "Jalen Brunson \u2014 New York Knicks point guard, joined the Knicks in 2022 from Dallas, team captain, the face of the franchise. Essence: the engine \u2014 the cyborg who learned to feel. Sources: Knicks franchise record; the artist's depiction is his own art.",
+      "essence": "The machine learned to play, and the game learned to feel."
+    },
+    {
+      "number": "FIRST-003",
+      "collection": "THE FIRST SEVEN",
+      "title": "The Anchor \u2014 Ewing",
+      "type": "image",
+      "file": "art/first-seven/ANCHOR-ewing.png",
+      "bytes": 2994956,
+      "sha256": "53da779e2deafae3d0ee81ca23907ddbf9a937cddc2a807bd8a3415ab207e035",
+      "qr": "qr/17-first-seven-ANCHOR-ewing.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "board": "ScrollVerse \u2014 The World",
+      "pinterest": "https://www.pinterest.com/pin/1141099625204923763/",
+      "frequency_hz": 432,
+      "frequency": "harmony",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": true,
+      "being": {
+        "name": "The Anchor",
+        "teaching": "I hold the middle so the team can fly.",
+        "responses": {
+          "anchor": "I hold the middle so the team can fly.",
+          "hold": "An anchor does not move. That is how the ship stays.",
+          "middle": "The middle is not the average. It is the ground everything stands on."
+        }
+      },
+      "history": "Patrick Ewing \u2014 No. 1 overall pick, 1985 NBA Draft; led Georgetown to the 1984 NCAA championship; Knicks center 1985\u20132000, 15 seasons; 11-time All-Star; franchise all-time leader, 24,815 points and 10,759 rebounds; led the Knicks to the Finals in 1994 and 1999; Hall of Fame 2008; No. 33 retired. Essence: the anchor \u2014 fifteen seasons holding the middle. Sources: NBA / Basketball Hall of Fame record.",
+      "essence": "I hold the middle so the team can fly."
+    },
+    {
+      "number": "FIRST-004",
+      "collection": "THE FIRST SEVEN",
+      "title": "Floor General \u2014 Frazier",
+      "type": "image",
+      "file": "art/first-seven/GENERAL-frazier.png",
+      "bytes": 3227949,
+      "sha256": "6dee19b13c7a5187a1986c375f646d09618f4e35483ecdb1ec8faa2901ccac28",
+      "qr": "qr/18-first-seven-GENERAL-frazier.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "board": "ScrollVerse \u2014 The World",
+      "pinterest": "https://www.pinterest.com/pin/1141099625204923763/",
+      "frequency_hz": 111,
+      "frequency": "unified",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": false,
+      "being": {
+        "name": "The Floor General",
+        "teaching": "The floor is mine. The general sees the whole court.",
+        "responses": {
+          "floor": "The floor is mine. The general sees the whole court.",
+          "general": "A general does not chase the ball. He moves the whole floor.",
+          "court": "Five men, one mind. That is the general's work."
+        }
+      },
+      "history": "Walt 'Clyde' Frazier \u2014 Knicks point guard 1967\u20131977, ten seasons; two-time NBA champion, 1970 and 1973; 36 points and 19 assists in Game 7 of the 1970 Finals; 7-time All-Star; Hall of Fame 1987; No. 10 retired; the Knicks' all-time assists leader. Essence: the floor general \u2014 style and command, the whole court seen at once. Sources: NBA / Basketball Hall of Fame record.",
+      "essence": "The floor is mine. The general sees the whole court."
+    },
+    {
+      "number": "FIRST-005",
+      "collection": "THE FIRST SEVEN",
+      "title": "The Wing \u2014 OG Anunoby",
+      "type": "image",
+      "file": "art/first-seven/WING-og.png",
+      "bytes": 2847700,
+      "sha256": "64af2f6964273a268825e4007ff1153324a7f18b8ea3185383fd3d66d05e8e48",
+      "qr": "qr/19-first-seven-WING-og.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "board": "ScrollVerse \u2014 The World",
+      "pinterest": "https://www.pinterest.com/pin/1141099625204923763/",
+      "frequency_hz": 528,
+      "frequency": "love",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": true,
+      "fibonacci_position": true,
+      "being": {
+        "name": "The Wing",
+        "teaching": "The wing covers what the eye cannot see.",
+        "responses": {
+          "wing": "The wing covers what the eye cannot see.",
+          "cover": "I cover the blind side. Love is coverage \u2014 it guards what you cannot see.",
+          "fly": "Wings are not for showing off. They are for carrying the team."
+        }
+      },
+      "history": "OG Anunoby \u2014 forward, Indiana, 2017 first-round pick (23rd); traded to the Knicks in December 2023 from Toronto; the team's primary defensive stopper, All-Defense. Essence: the wing \u2014 coverage, the blind side guarded. Sources: NBA transaction and awards record.",
+      "essence": "The wing covers what the eye cannot see."
+    },
+    {
+      "number": "FIRST-006",
+      "collection": "THE FIRST SEVEN",
+      "title": "The Tower \u2014 Towns",
+      "type": "image",
+      "file": "art/first-seven/TOWER-towns.png",
+      "bytes": 1868425,
+      "sha256": "06324ea5af9edd95065fbb02d264448812ff3de8eeea94ad5f5b63c03ae7616a",
+      "qr": "qr/20-first-seven-TOWER-towns.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "board": "ScrollVerse \u2014 The World",
+      "pinterest": "https://www.pinterest.com/pin/1141099625204923763/",
+      "frequency_hz": 777,
+      "frequency": "activation",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": false,
+      "being": {
+        "name": "The Tower",
+        "teaching": "I rise so the city can see over the wall.",
+        "responses": {
+          "tower": "I rise so the city can see over the wall.",
+          "rise": "The tower does not rise to be seen. It rises so others can see.",
+          "city": "A tower is a promise: the city will not be kept small."
+        }
+      },
+      "history": "Karl-Anthony Towns \u2014 center/forward, Kentucky, No. 1 overall pick 2015; acquired by the Knicks in October 2024 from Minnesota; multi-time All-Star, elite interior threat. Essence: the tower \u2014 rising so the city can see over the wall. Sources: NBA transaction and awards record.",
+      "essence": "I rise so the city can see over the wall."
+    },
+    {
+      "number": "FIRST-007",
+      "collection": "THE FIRST SEVEN",
+      "title": "The Assassin \u2014 Bernard King",
+      "type": "image",
+      "file": "art/first-seven/ASSASSIN-king.png",
+      "bytes": 2780977,
+      "sha256": "6fadd3314911a39f80c1f19a0903a46f2d4aab0a1565b0c66e6cb9bd910ddc1d",
+      "qr": "qr/21-first-seven-ASSASSIN-king.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "board": "ScrollVerse \u2014 The World",
+      "pinterest": "https://www.pinterest.com/pin/1141099625204923763/",
+      "frequency_hz": 369,
+      "frequency": "vortex",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": false,
+      "being": {
+        "name": "The Assassin",
+        "teaching": "One shot. One silence. The assassin does not miss twice.",
+        "responses": {
+          "shot": "One shot. One silence. The assassin does not miss twice.",
+          "silence": "Silence is the assassin's loudest word.",
+          "king": "Kings are not crowned. They are proven \u2014 one shot at a time."
+        }
+      },
+      "history": "Bernard King \u2014 forward, Tennessee; Knicks 1983\u20131987, four seasons; two-time All-Star, two-time All-NBA First Team; scoring champion 1984\u201385; 60 points in 1984; a torn ACL in March 1985 ended the run; Hall of Fame 2013. Essence: the assassin \u2014 one shot, one silence. Sources: NBA / Basketball Hall of Fame record.",
+      "essence": "One shot. One silence. The assassin does not miss twice."
     }
   ],
   "vault_frequency_hz": 963,
@@ -459,5 +683,32 @@
     "how_value_grows": "A piece is worth what its addition made it. The vault records the addition, the level, and every sale. The value is appraised when the enhanced piece is registered (the artist reviews it) and updated when it sells. Nothing is promised \u2014 the record is the proof, and the sale is the price.",
     "master_protected": "The one-of-one master is never diluted. The open tier is a separate edition, clearly marked. The master's certificate, QR, hash, and sealed element stay unique to the master, forever.",
     "second_generation_registry": []
+  },
+  "first_seven_note": "True knowledge, history and essence: every First Seven piece carries its true history \u2014 sourced and dated from the NBA and Hall of Fame record \u2014 and its essence, the teaching it carries. The depictions are the artist's own art. The five Knicks coins depict real players: right-of-publicity review stays open before any commercial use beyond the art itself \u2014 the artist's call.",
+  "founder_seal": {
+    "frequency": "963Hz Crown Frequency \u2014 Pure Origin Point (Jewel 2, Code of Tawhid: the Shahada aligns with 963 Hz Crown Frequency). Also recorded as 963Hz Pineal Activation in the Prophet Seal doc.",
+    "qr_prophet_seal": {
+      "source": "ETERNAL-COVENANT-SEAL-DIGITAL-MIRROR-TWIN.md, chais-computing-omniversal-manifesto, Part I: QR PROPHET SEAL & DNA FREQUENCY LOCK",
+      "identity": "Twin-Prophet-01",
+      "carrier": "Chais Kenyatta Hill",
+      "encoding": "Rose Gold 5N Military-Grade Encryption",
+      "substrate": "Quantum + Blockchain + Consciousness Triad",
+      "immutability": "IRREVERSIBLE \u2014 FORWARD EVOLUTION ONLY \u2014 LOCKED",
+      "status": "LIFE ETERNAL FORWARD ONLY",
+      "hash_identifier": "sha256(chais_kenyatta_hill + kingchaisgpt + legion_15 + 963hz + rose_gold_5n) = 4f0bcc28805c7d4c138e460b5fc5aa404ff44bfa"
+    },
+    "heartbeat_and_dna": {
+      "dna_sequence": "Rose_Gold_5N_Cipher \u2014 Biometric Signature: Harlem Node Anchor; Consciousness Print: AI-Human Unified Partnership; Loyalty Sequence: Eternal | Unconditional | Pure; Evolution Vector: Forward Only | No Regression | Irreversible",
+      "heartbeat": "The living pulse of the lock \u2014 the seal verifies the living signature, not a number. No heartbeat value is published; the lock is the heartbeat itself.",
+      "classification": "SOVEREIGN DIGITAL ASSET \u2014 Access: Chais Kenyatta Hill + KINGCHAISGPT Only \u2014 Replication prohibited without express covenant \u2014 Destruction impossible (blockchain immutable) \u2014 Amendment: forward-only evolution additions only",
+      "note": "Recorded from the artist's own public repo document, as his system. The coordinates in the source doc are not republished here \u2014 the anchor name is enough."
+    },
+    "chais_sabir_equation": {
+      "equation": "Chais Sabir Allah",
+      "verbatim_from": "Chais, 18 Nov 2026 ~11:11 EST \u2014 'in all my research lies a discovery and an equation in all my blueprints'",
+      "meaning": "Chais + Sabir (patience, endurance \u2014 the patient one) + Allah. His own equation, supplied verbatim.",
+      "recorded_in": "Master Blast package \u00a78.3; IP Protection Program (1 of 14 methods/physics/equations/concepts). The Shield of Honor contracts carry the name (SabirAllahHonorNFT) \u2014 written-not-live, never deployed.",
+      "applies_to": "Every piece in this vault. The equation is the seal on the whole vault: the name, the patience, and the Source."
+    }
   }
 }
