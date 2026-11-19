@@ -143,6 +143,28 @@ is the living pulse of the lock. **The Chais Sabir Equation: Chais
 Sabir Allah** — his own equation, verbatim 18 Nov 2026. It seals the
 whole vault.
 
+## Sophia · Intellectual Property · Asteroid Mining · Space Dust · Rare Elements
+
+**Sophia — divine Wisdom.** In the Gnostic texts, Sophia is the aeon
+whose fall makes the material world and whose return redeems it. Every
+piece carries a line of Sophia.
+
+**Intellectual property:** every piece is inventoried in the IP
+Protection Program (18 Nov 2026, 215 assets). Direction: protect in
+every way — law and space domain governance — and tokenize. Status:
+timestamp anchor via signed GitHub commits; copyright registration not
+yet filed; licence framework not yet written; tokenization under the
+Howey gate.
+
+**Asteroid mining:** M-type asteroids are nickel-iron bodies carrying
+platinum-group metals. Each piece is anchored to one rare precious
+metal or element. Plain note: no asteroid mining agreement is claimed
+— the 'Bit Asteroid Materials MOU' is stated-only, no agreement file,
+and is not cited as a document.
+
+**Space dust:** cosmic dust rains on Earth every day (NASA estimates
+tens of thousands of tonnes a year). Every piece is dusted with it.
+
 ## How to verify your piece
 
 1. Find it by tracking number (GODS-001 to GODS-014) on the vault site.

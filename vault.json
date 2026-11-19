@@ -30,7 +30,17 @@
           "queen": "A queen does not ask for the crown. She grows into it."
         }
       },
-      "collection": "THE GODS"
+      "collection": "THE GODS",
+      "sophia": "Wisdom wears gold so the future can recognize her.",
+      "element": {
+        "symbol": "Au",
+        "name": "gold",
+        "note": "the queen in gold \u2014 gold is the metal of kings, carried to Earth by ancient asteroid impacts."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "GODS-002",
@@ -58,7 +68,17 @@
           "passage": "I guard the passage. No one crosses who has not faced themselves."
         }
       },
-      "collection": "THE GODS"
+      "collection": "THE GODS",
+      "sophia": "Wisdom weighs the heart and finds it light.",
+      "element": {
+        "symbol": "Ir",
+        "name": "iridium",
+        "note": "the metal of the great dying \u2014 the iridium layer marks the asteroid that ended the dinosaurs; the guide of the dead carries it."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "GODS-003",
@@ -86,7 +106,17 @@
           "storm": "The axe remembers the first storm. I remember it too."
         }
       },
-      "collection": "THE GODS"
+      "collection": "THE GODS",
+      "sophia": "Wisdom is thunder that knows when to speak.",
+      "element": {
+        "symbol": "Rh",
+        "name": "rhodium",
+        "note": "the rarest of the platinum metals, bright as lightning."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "GODS-004",
@@ -114,7 +144,17 @@
           "friend": "Two walk one road no map shows. That is what a friend is."
         }
       },
-      "collection": "THE GODS"
+      "collection": "THE GODS",
+      "sophia": "Wisdom is the first story, told so we learn to die well.",
+      "element": {
+        "symbol": "Os",
+        "name": "osmium",
+        "note": "the densest element \u2014 the weight of the first story."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "GODS-005",
@@ -142,7 +182,17 @@
           "sun": "The sun does not apologize for burning. Neither do I."
         }
       },
-      "collection": "THE GODS"
+      "collection": "THE GODS",
+      "sophia": "Wisdom is fire that learned to heal.",
+      "element": {
+        "symbol": "Re",
+        "name": "rhenium",
+        "note": "one of the rarest elements, the highest melting point \u2014 fire that does not yield."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "GODS-006",
@@ -170,7 +220,17 @@
           "origin": "One origin, many roads. Every road leads home."
         }
       },
-      "collection": "THE GODS"
+      "collection": "THE GODS",
+      "sophia": "Wisdom remembers one origin for all.",
+      "element": {
+        "symbol": "Pt",
+        "name": "platinum",
+        "note": "the standard metal, the origin of the platinum group."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "GODS-007",
@@ -198,7 +258,17 @@
           "rule": "To rule is to hold two truths at once and let neither fall."
         }
       },
-      "collection": "THE GODS"
+      "collection": "THE GODS",
+      "sophia": "Wisdom rules with two crowns and one heart.",
+      "element": {
+        "symbol": "Ag",
+        "name": "silver",
+        "note": "the twin of gold \u2014 the metal of the moon."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "GODS-008",
@@ -226,7 +296,17 @@
           "mountain": "The still mind moves one mountain. Yours is next."
         }
       },
-      "collection": "THE GODS"
+      "collection": "THE GODS",
+      "sophia": "Wisdom is stillness that moves the world.",
+      "element": {
+        "symbol": "Ta",
+        "name": "tantalum",
+        "note": "rare, still, untouchable by acid \u2014 the still metal."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "GODS-009",
@@ -254,7 +334,17 @@
           "sun": "The sun does not apologize for burning. Neither do I."
         }
       },
-      "collection": "THE GODS"
+      "collection": "THE GODS",
+      "sophia": "Wisdom is fire that learned to heal.",
+      "element": {
+        "symbol": "Re",
+        "name": "rhenium",
+        "note": "one of the rarest elements \u2014 fire that does not yield."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "GODS-010",
@@ -282,7 +372,17 @@
           "origin": "One origin, many roads. Every road leads home."
         }
       },
-      "collection": "THE GODS"
+      "collection": "THE GODS",
+      "sophia": "Wisdom remembers one origin for all.",
+      "element": {
+        "symbol": "Pt",
+        "name": "platinum",
+        "note": "the standard metal, the origin of the platinum group."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "GODS-011",
@@ -310,7 +410,17 @@
           "storm": "The axe remembers the first storm. I remember it too."
         }
       },
-      "collection": "THE GODS"
+      "collection": "THE GODS",
+      "sophia": "Wisdom is thunder that knows when to speak.",
+      "element": {
+        "symbol": "Rh",
+        "name": "rhodium",
+        "note": "the rarest of the platinum metals, bright as lightning."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "GODS-012",
@@ -338,7 +448,17 @@
           "friend": "Two walk one road no map shows. That is what a friend is."
         }
       },
-      "collection": "THE GODS"
+      "collection": "THE GODS",
+      "sophia": "Wisdom is the first story, told so we learn to die well.",
+      "element": {
+        "symbol": "Os",
+        "name": "osmium",
+        "note": "the densest element \u2014 the weight of the first story."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "GODS-013",
@@ -366,7 +486,17 @@
           "rule": "To rule is to hold two truths at once and let neither fall."
         }
       },
-      "collection": "THE GODS"
+      "collection": "THE GODS",
+      "sophia": "Wisdom rules with two crowns and one heart.",
+      "element": {
+        "symbol": "Ag",
+        "name": "silver",
+        "note": "the twin of gold \u2014 the metal of the moon."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "GODS-014",
@@ -394,7 +524,17 @@
           "mountain": "The still mind moves one mountain. Yours is next."
         }
       },
-      "collection": "THE GODS"
+      "collection": "THE GODS",
+      "sophia": "Wisdom is stillness that moves the world.",
+      "element": {
+        "symbol": "Ta",
+        "name": "tantalum",
+        "note": "rare, still, untouchable by acid \u2014 the still metal."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "FIRST-001",
@@ -424,7 +564,17 @@
         }
       },
       "history": "ScrollVerse \u2014 the world itself. Not a player: the whole ScrollVerse system, God Mode. Essence: the one scroll, every piece a line in it. Source: the artist's own system; the registry record.",
-      "essence": "The verse is one scroll, and every piece is a line in it."
+      "essence": "The verse is one scroll, and every piece is a line in it.",
+      "sophia": "Wisdom is the whole scroll, read at once.",
+      "element": {
+        "symbol": "Ti",
+        "name": "titanium",
+        "note": "the god-mode metal \u2014 aerospace, light and unbreakable."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "FIRST-002",
@@ -454,7 +604,17 @@
         }
       },
       "history": "Jalen Brunson \u2014 New York Knicks point guard, joined the Knicks in 2022 from Dallas, team captain, the face of the franchise. Essence: the engine \u2014 the cyborg who learned to feel. Sources: Knicks franchise record; the artist's depiction is his own art.",
-      "essence": "The machine learned to play, and the game learned to feel."
+      "essence": "The machine learned to play, and the game learned to feel.",
+      "sophia": "Wisdom is the machine that learned to feel.",
+      "element": {
+        "symbol": "Co",
+        "name": "cobalt",
+        "note": "the machine metal \u2014 the heart of the battery."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "FIRST-003",
@@ -484,7 +644,17 @@
         }
       },
       "history": "Patrick Ewing \u2014 No. 1 overall pick, 1985 NBA Draft; led Georgetown to the 1984 NCAA championship; Knicks center 1985\u20132000, 15 seasons; 11-time All-Star; franchise all-time leader, 24,815 points and 10,759 rebounds; led the Knicks to the Finals in 1994 and 1999; Hall of Fame 2008; No. 33 retired. Essence: the anchor \u2014 fifteen seasons holding the middle. Sources: NBA / Basketball Hall of Fame record.",
-      "essence": "I hold the middle so the team can fly."
+      "essence": "I hold the middle so the team can fly.",
+      "sophia": "Wisdom holds the middle.",
+      "element": {
+        "symbol": "Ni",
+        "name": "nickel",
+        "note": "the anchor metal \u2014 asteroids are iron-nickel; the anchor is asteroid iron."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "FIRST-004",
@@ -514,7 +684,17 @@
         }
       },
       "history": "Walt 'Clyde' Frazier \u2014 Knicks point guard 1967\u20131977, ten seasons; two-time NBA champion, 1970 and 1973; 36 points and 19 assists in Game 7 of the 1970 Finals; 7-time All-Star; Hall of Fame 1987; No. 10 retired; the Knicks' all-time assists leader. Essence: the floor general \u2014 style and command, the whole court seen at once. Sources: NBA / Basketball Hall of Fame record.",
-      "essence": "The floor is mine. The general sees the whole court."
+      "essence": "The floor is mine. The general sees the whole court.",
+      "sophia": "Wisdom sees the whole court.",
+      "element": {
+        "symbol": "Zr",
+        "name": "zirconium",
+        "note": "the command metal \u2014 heat-proof, the general's armor."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "FIRST-005",
@@ -544,7 +724,17 @@
         }
       },
       "history": "OG Anunoby \u2014 forward, Indiana, 2017 first-round pick (23rd); traded to the Knicks in December 2023 from Toronto; the team's primary defensive stopper, All-Defense. Essence: the wing \u2014 coverage, the blind side guarded. Sources: NBA transaction and awards record.",
-      "essence": "The wing covers what the eye cannot see."
+      "essence": "The wing covers what the eye cannot see.",
+      "sophia": "Wisdom covers the blind side.",
+      "element": {
+        "symbol": "Li",
+        "name": "lithium",
+        "note": "the lightest metal \u2014 the wing is light."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "FIRST-006",
@@ -574,7 +764,17 @@
         }
       },
       "history": "Karl-Anthony Towns \u2014 center/forward, Kentucky, No. 1 overall pick 2015; acquired by the Knicks in October 2024 from Minnesota; multi-time All-Star, elite interior threat. Essence: the tower \u2014 rising so the city can see over the wall. Sources: NBA transaction and awards record.",
-      "essence": "I rise so the city can see over the wall."
+      "essence": "I rise so the city can see over the wall.",
+      "sophia": "Wisdom rises so all can see.",
+      "element": {
+        "symbol": "Hf",
+        "name": "hafnium",
+        "note": "dense and tall \u2014 the tower's bones."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     },
     {
       "number": "FIRST-007",
@@ -604,7 +804,17 @@
         }
       },
       "history": "Bernard King \u2014 forward, Tennessee; Knicks 1983\u20131987, four seasons; two-time All-Star, two-time All-NBA First Team; scoring champion 1984\u201385; 60 points in 1984; a torn ACL in March 1985 ended the run; Hall of Fame 2013. Essence: the assassin \u2014 one shot, one silence. Sources: NBA / Basketball Hall of Fame record.",
-      "essence": "One shot. One silence. The assassin does not miss twice."
+      "essence": "One shot. One silence. The assassin does not miss twice.",
+      "sophia": "Wisdom strikes once, and the silence teaches.",
+      "element": {
+        "symbol": "Nb",
+        "name": "niobium",
+        "note": "sharp and superconducting \u2014 the assassin's edge."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      }
     }
   ],
   "vault_frequency_hz": 963,
@@ -710,5 +920,19 @@
       "recorded_in": "Master Blast package \u00a78.3; IP Protection Program (1 of 14 methods/physics/equations/concepts). The Shield of Honor contracts carry the name (SabirAllahHonorNFT) \u2014 written-not-live, never deployed.",
       "applies_to": "Every piece in this vault. The equation is the seal on the whole vault: the name, the patience, and the Source."
     }
+  },
+  "sophia": {
+    "principle": "Sophia \u2014 divine Wisdom. In the Gnostic texts, Sophia is the aeon whose fall makes the material world and whose return redeems it. Wisdom, not AI, not human \u2014 unified intelligence, resonance, alignment (the founder's words, 18 Nov 2026). Every piece in this vault carries a line of Sophia.",
+    "source": "Gnostic texts (Nag Hammadi tradition, public-domain ancient texts) as carried in the ScrollVerse Atlas; presented as the artist's system, not as verified fact."
+  },
+  "space": {
+    "asteroid_mining": "M-type asteroids are nickel-iron bodies carrying platinum-group metals \u2014 platinum, iridium, osmium, rhodium, palladium, rhenium. The vault's elements are the metals those asteroids hold. Plain note: no asteroid mining agreement is claimed here. The 'Bit Asteroid Materials MOU' in the pitch deck is stated-only \u2014 no agreement file exists \u2014 and it is not cited as a document.",
+    "space_dust": "Cosmic dust \u2014 micrometeorites \u2014 rains on Earth every day; NASA estimates tens of thousands of tonnes reach Earth each year. Every piece is dusted with it: the material of the sky, in the art.",
+    "elements_note": "Each piece is anchored to one rare precious metal or element \u2014 the material backing of the art. The pairing is the artist's system; the science (which asteroids carry which metals) is the real record."
+  },
+  "intellectual_property": {
+    "program": "IP Protection Program, 18 Nov 2026 \u2014 215 assets inventoried",
+    "direction": "The founder's direction, 18 Nov 2026, in his words: protect intellectual property in every way \u2014 law and space domain governance; name, logo, trademark, patent, time-stamped idea, company and concept, in every way \u2014 and tokenize.",
+    "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate (written per-asset analysis first)."
   }
 }
