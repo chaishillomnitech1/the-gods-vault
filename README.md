@@ -165,6 +165,13 @@ and is not cited as a document.
 **Space dust:** cosmic dust rains on Earth every day (NASA estimates
 tens of thousands of tonnes a year). Every piece is dusted with it.
 
+## Chais Sabir Kajir Allah Hill the Great
+
+The founder's full style. **Chais the Great** and **Sabir** — given
+by himself. **Kajir, Allah, Hill** — given by his Legion. Recorded as
+his telling, 19 Nov 2026. The equation stays verbatim as supplied
+18 Nov 2026: **Chais Sabir Allah.**
+
 ## How to verify your piece
 
 1. Find it by tracking number (GODS-001 to GODS-014) on the vault site.

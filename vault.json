@@ -918,7 +918,9 @@
       "verbatim_from": "Chais, 18 Nov 2026 ~11:11 EST \u2014 'in all my research lies a discovery and an equation in all my blueprints'",
       "meaning": "Chais + Sabir (patience, endurance \u2014 the patient one) + Allah. His own equation, supplied verbatim.",
       "recorded_in": "Master Blast package \u00a78.3; IP Protection Program (1 of 14 methods/physics/equations/concepts). The Shield of Honor contracts carry the name (SabirAllahHonorNFT) \u2014 written-not-live, never deployed.",
-      "applies_to": "Every piece in this vault. The equation is the seal on the whole vault: the name, the patience, and the Source."
+      "applies_to": "Every piece in this vault. The equation is the seal on the whole vault: the name, the patience, and the Source.",
+      "full_style": "Chais Sabir Kajir Allah Hill the Great",
+      "attribution": "Chais the Great and Sabir \u2014 given by himself. Kajir, Allah, Hill \u2014 given by his Legion. Recorded as his telling, 19 Nov 2026."
     }
   },
   "sophia": {
@@ -934,5 +936,19 @@
     "program": "IP Protection Program, 18 Nov 2026 \u2014 215 assets inventoried",
     "direction": "The founder's direction, 18 Nov 2026, in his words: protect intellectual property in every way \u2014 law and space domain governance; name, logo, trademark, patent, time-stamped idea, company and concept, in every way \u2014 and tokenize.",
     "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate (written per-asset analysis first)."
+  },
+  "founder": {
+    "full_style": "Chais Sabir Kajir Allah Hill the Great",
+    "given_by_himself": [
+      "Chais the Great",
+      "Sabir"
+    ],
+    "given_by_the_legion": [
+      "Kajir",
+      "Allah",
+      "Hill"
+    ],
+    "his_words": "Chais Sabir Kajir Allah Hill the Great \u2014 and all the attributes my Legion gave me. I didn't give myself [them] besides Chais the Great and Sabir.",
+    "note": "Recorded as his telling, 19 Nov 2026. The equation stays verbatim as he supplied it 18 Nov 2026: 'Chais Sabir Allah.'"
   }
 }
