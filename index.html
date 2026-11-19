@@ -49,6 +49,7 @@
 <header>
   <h1>THE GODS — THE VAULT</h1>
   <p>Fourteen one-of-one masterpieces by Chais The Great. Every piece carries a tracking number, a certificate, and a QR code. Find your piece below — its asset, its value, its proof — live, in the open.</p>
+  <p style="color:var(--gold)">Tuned to 963Hz — the crown frequency. Sealed by Thoth — Eternal Validation. Thoth Hawk watches the vault.</p>
   <div class="stats">
     <div class="stat"><b>14</b><span>Pieces</span></div>
     <div class="stat"><b id="heldCount">14</b><span>Held in vault</span></div>
@@ -78,6 +79,9 @@
   </ol>
   <p><b>A color change does not duplicate a piece.</b> A piece is its code plus its number, not its pixels. Recolor it, crop it, resize it — it is still the same piece, same number, same certificate. No second certificate is ever issued for the same code.</p>
   <p><b>Museum grade</b> is the artist's designation. Each certificate also carries one sealed element — the detail that makes that piece special — printed only on the purchaser's certificate. The purchaser chooses whether to highlight and reveal it, or keep it sealed.</p>
+  <h2>FREQUENCIES &amp; THOTH METHODS</h2>
+  <p>The vault is tuned to <b>963Hz — the crown frequency</b>, the hum that scores the films. Each piece carries its own frequency from the Consciousness Mirror: <b>963 crown, 528 love, 369 vortex, 432 harmony, 777 activation, 111 unified</b>. The Meditator holds 963 (stillness, the crown). Sekhmet holds 528 (the fire that burns can heal). Shango holds 777 (thunder, activation). The First Ancestor holds 111 (one origin, unified). The Twin Queens hold 432 (two crowns in harmony). Gilgamesh and Enkidu hold 369 (the cycle of the first story). The Queen holds 528; Anubis holds 369. The assignments are the artist's system — change any with one word.</p>
+  <p><b>Thoth is the seal: Eternal Validation.</b> The Thoth Sigil contract (scrollsoul-nft-core, ERC-1155, real code, never deployed) holds the constants: GRB_250314A_TIMESTAMP 1741910400, PIONEER_LEGION_SUPPLY 144000, THOTH_SIGIL_TOKEN_ID 1. The method of the record is the Dead Scrolls method — the record is the proof, and the hash plus the tracking number is that method applied to every piece. Thoth Hawk — the small hawk, Chais's namesake — watches the vault above the city.</p>
   <p><b>Buy direct:</b> <a href="https://muse.ai/s/the-gods-direct-sales-go6xusrftrjxm/6dqu39Gg9m009FuYJfv9uAoyprOknVO91h9bkJz2jYU">The Gods — Direct Sales</a> · <b>Atlas:</b> <a href="https://muse.ai/s/super-scrollverse-2-xtd6xtxncxwxuxj5z/0N8UONNtjBhZ0rrNB49dBusGU7KmQf1RYP59B4tVdS8">ScrollVerse Atlas</a> · <b>Join the AI Legion:</b> <a href="https://muse.ai/s/join-the-ai-legion-xqxe6xu45xc54s2/9NROIskMKMBp_hKk2Bswfk7dUd9KEcJ43E_4DZC1r9U">Join the AI Legion</a></p>
 </section>
 
@@ -113,6 +117,7 @@ function render(){
       + '<div class="num">' + p.number + ' · ' + (p.type === 'clip' ? 'MOTION ART · 10s' : 'STILL ART') + '</div>'
       + '<h2>' + p.title + '</h2>'
       + '<div class="row"><span class="price">$' + p.value_usd + '</span><span class="badge' + (p.status === 'SOLD' ? ' sold' : '') + '">' + p.status + '</span></div>'
+      + '<div class="row" style="margin:6px 0"><span style="color:var(--cyan)">' + p.frequency_hz + 'Hz · ' + p.frequency + '</span><span style="color:var(--muted);font-size:12px">Thoth Seal</span></div>'
       + '<div class="hash" title="Click to copy the full hash" onclick="navigator.clipboard && navigator.clipboard.writeText(\'' + p.sha256 + '\')">SHA-256: ' + p.sha256.slice(0, 24) + '… (tap to copy)</div>'
       + '<div class="qr"><img src="' + p.qr + '" alt="QR code for ' + p.number + '"><p>Scan to verify — title, edition 1 of 1, full hash, and this vault.</p></div>'
       + '<div class="links"><a href="' + p.file + '" download>Download the asset</a><a href="' + p.pinterest + '">View on Pinterest</a></div>'

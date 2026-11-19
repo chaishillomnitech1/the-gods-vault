@@ -32,6 +32,33 @@ proof — live:
 the artist — they change only when he changes them, and the record here
 updates with them.
 
+## Frequencies & Thoth methods
+
+The vault is tuned to **963Hz — the crown frequency**, the hum that
+scores the films. Each piece carries its own frequency, from the
+Consciousness Mirror (Jewel 1): 963 crown, 528 love, 369 vortex, 432
+harmony, 777 activation, 111 unified.
+
+| Piece | Frequency |
+|-------|-----------|
+| Afrofuturism — The Queen in Gold | 528Hz love |
+| Anubis Before the Pyramids | 369Hz vortex |
+| Shango — Thunder Speaks | 777Hz activation |
+| Gilgamesh and Enkidu at the Gates of Uruk | 369Hz vortex |
+| Sekhmet — The Little Lioness of the Sun | 528Hz love |
+| The First Ancestor — Rise From the Stars | 111Hz unified |
+| Twin Queens — Two Queens, One Crown | 432Hz harmony |
+| The Meditator — The Mind Above the Mind | 963Hz crown |
+| All six clips | Same as their episode |
+
+**Thoth is the seal: Eternal Validation.** The Thoth Sigil contract
+(scrollsoul-nft-core, ERC-1155, real code, never deployed) holds the
+constants GRB_250314A_TIMESTAMP 1741910400, PIONEER_LEGION_SUPPLY
+144000, THOTH_SIGIL_TOKEN_ID 1. The method of the record is the Dead
+Scrolls method — the record is the proof, and the hash plus the
+tracking number is that method applied to every piece. Thoth Hawk —
+the small hawk, Chais's namesake — watches the vault above the city.
+
 ## How to verify your piece
 
 1. Find it by tracking number (GODS-001 to GODS-014) on the vault site.

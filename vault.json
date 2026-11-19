@@ -15,7 +15,10 @@
       "value_usd": 1111,
       "status": "HELD",
       "board": "Afrofuturism Art",
-      "pinterest": "https://www.pinterest.com/pin/1141099625204922444/"
+      "pinterest": "https://www.pinterest.com/pin/1141099625204922444/",
+      "frequency_hz": 528,
+      "frequency": "love",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
     },
     {
       "number": "GODS-002",
@@ -28,7 +31,10 @@
       "value_usd": 1111,
       "status": "HELD",
       "board": "Egyptian God Art",
-      "pinterest": "https://www.pinterest.com/pin/1141099625204922539/"
+      "pinterest": "https://www.pinterest.com/pin/1141099625204922539/",
+      "frequency_hz": 369,
+      "frequency": "vortex",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
     },
     {
       "number": "GODS-003",
@@ -41,7 +47,10 @@
       "value_usd": 1111,
       "status": "HELD",
       "board": "Orisha Gods",
-      "pinterest": "https://www.pinterest.com/pin/1141099625204922607/"
+      "pinterest": "https://www.pinterest.com/pin/1141099625204922607/",
+      "frequency_hz": 777,
+      "frequency": "activation",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
     },
     {
       "number": "GODS-004",
@@ -54,7 +63,10 @@
       "value_usd": 1111,
       "status": "HELD",
       "board": "Mesopotamian Gods",
-      "pinterest": "https://www.pinterest.com/pin/1141099625204922669/"
+      "pinterest": "https://www.pinterest.com/pin/1141099625204922669/",
+      "frequency_hz": 369,
+      "frequency": "vortex",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
     },
     {
       "number": "GODS-005",
@@ -67,7 +79,10 @@
       "value_usd": 1111,
       "status": "HELD",
       "board": "Egyptian God Art",
-      "pinterest": "https://www.pinterest.com/pin/1141099625204922721/"
+      "pinterest": "https://www.pinterest.com/pin/1141099625204922721/",
+      "frequency_hz": 528,
+      "frequency": "love",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
     },
     {
       "number": "GODS-006",
@@ -80,7 +95,10 @@
       "value_usd": 1111,
       "status": "HELD",
       "board": "Afrofuturism Art",
-      "pinterest": "https://www.pinterest.com/pin/1141099625204922773/"
+      "pinterest": "https://www.pinterest.com/pin/1141099625204922773/",
+      "frequency_hz": 111,
+      "frequency": "unified",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
     },
     {
       "number": "GODS-007",
@@ -93,7 +111,10 @@
       "value_usd": 1111,
       "status": "HELD",
       "board": "African Mythology",
-      "pinterest": "https://www.pinterest.com/pin/1141099625204922897/"
+      "pinterest": "https://www.pinterest.com/pin/1141099625204922897/",
+      "frequency_hz": 432,
+      "frequency": "harmony",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
     },
     {
       "number": "GODS-008",
@@ -106,7 +127,10 @@
       "value_usd": 1111,
       "status": "HELD",
       "board": "Afrofuturism Art",
-      "pinterest": "https://www.pinterest.com/pin/1141099625204922931/"
+      "pinterest": "https://www.pinterest.com/pin/1141099625204922931/",
+      "frequency_hz": 963,
+      "frequency": "crown",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
     },
     {
       "number": "GODS-009",
@@ -119,7 +143,10 @@
       "value_usd": 2222,
       "status": "HELD",
       "board": "Egyptian God Art",
-      "pinterest": "https://www.pinterest.com/pin/1141099625204922978/"
+      "pinterest": "https://www.pinterest.com/pin/1141099625204922978/",
+      "frequency_hz": 528,
+      "frequency": "love",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
     },
     {
       "number": "GODS-010",
@@ -132,7 +159,10 @@
       "value_usd": 2222,
       "status": "HELD",
       "board": "Afrofuturism Art",
-      "pinterest": "https://www.pinterest.com/pin/1141099625204923068/"
+      "pinterest": "https://www.pinterest.com/pin/1141099625204923068/",
+      "frequency_hz": 111,
+      "frequency": "unified",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
     },
     {
       "number": "GODS-011",
@@ -145,7 +175,10 @@
       "value_usd": 2222,
       "status": "HELD",
       "board": "Orisha Gods",
-      "pinterest": "https://www.pinterest.com/pin/1141099625204923202/"
+      "pinterest": "https://www.pinterest.com/pin/1141099625204923202/",
+      "frequency_hz": 777,
+      "frequency": "activation",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
     },
     {
       "number": "GODS-012",
@@ -158,7 +191,10 @@
       "value_usd": 2222,
       "status": "HELD",
       "board": "Mesopotamian Gods",
-      "pinterest": "https://www.pinterest.com/pin/1141099625204923333/"
+      "pinterest": "https://www.pinterest.com/pin/1141099625204923333/",
+      "frequency_hz": 369,
+      "frequency": "vortex",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
     },
     {
       "number": "GODS-013",
@@ -171,7 +207,10 @@
       "value_usd": 2222,
       "status": "HELD",
       "board": "African Mythology",
-      "pinterest": "https://www.pinterest.com/pin/1141099625204923441/"
+      "pinterest": "https://www.pinterest.com/pin/1141099625204923441/",
+      "frequency_hz": 432,
+      "frequency": "harmony",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
     },
     {
       "number": "GODS-014",
@@ -184,7 +223,25 @@
       "value_usd": 2222,
       "status": "HELD",
       "board": "Afrofuturism Art",
-      "pinterest": "https://www.pinterest.com/pin/1141099625204923532/"
+      "pinterest": "https://www.pinterest.com/pin/1141099625204923532/",
+      "frequency_hz": 963,
+      "frequency": "crown",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
     }
-  ]
+  ],
+  "vault_frequency_hz": 963,
+  "vault_frequency": "crown \u2014 the vault tone; the 963Hz hum that scores the films",
+  "thoth": {
+    "seal": "Thoth is the seal: Eternal Validation",
+    "method_of_record": "The Dead Scrolls method \u2014 the record is the proof; hash + tracking number is the record applied",
+    "sigil_contract": "Thoth Sigil minting contract, scrollsoul-nft-core, ERC-1155, real code, never deployed",
+    "constants": {
+      "GRB_250314A_TIMESTAMP": 1741910400,
+      "PIONEER_LEGION_SUPPLY": 144000,
+      "THOTH_SIGIL_TOKEN_ID": 1
+    },
+    "watcher": "Thoth Hawk \u2014 the small hawk, Chais's namesake \u2014 watches the vault above the city",
+    "source": "Chais's repos and the Consciousness Mirror (Jewel 1); recorded as his material, not externally verified"
+  },
+  "frequencies_source": "Jewel 1 \u2014 CONSCIOUSNESS MIRROR: 963 crown, 528 love, 369 vortex, 432 harmony, 777 activation, 111 unified. Assignments are the artist's system; change any with one word."
 }
