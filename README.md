@@ -82,6 +82,17 @@ Divine to tech: the frequencies tune the art, the Thoth seal validates
 it, the Fibonacci order structures it, the Tesla code drives it, and
 the AI builds and verifies it. That is where its power is unleashed.
 
+## The art lives and responds
+
+Deeper than a video game: a game character answers from a script.
+These pieces answer from their own teaching, their frequency, and
+their seal. Speak to any piece on the vault site — ask it something,
+and it answers from its written mind. The purchaser's certificate
+carries one sealed line the piece speaks only to its owner. A live
+voice — a real model answering freely as the piece — is the next
+layer, when the Live Twin endpoint lands (provider, key, spend cap
+and hosting are the founder's decisions).
+
 ## How to verify your piece
 
 1. Find it by tracking number (GODS-001 to GODS-014) on the vault site.

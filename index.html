@@ -38,6 +38,11 @@
   .links{margin-top:12px;display:flex;gap:10px;flex-wrap:wrap}
   .links a{color:var(--cyan);font-size:13px}
   .empty{grid-column:1/-1;text-align:center;color:var(--muted);padding:40px 0}
+  .speak{margin-top:14px;border-top:1px solid var(--line);padding-top:12px}
+  .speak b{font-size:13px;color:var(--gold)}
+  .speak .answer{font-style:italic;color:#C7D6E4;line-height:1.6;margin:8px 0;font-size:14px;min-height:44px}
+  .speak input{width:calc(100% - 64px);padding:9px 10px;border-radius:8px;border:1px solid var(--line);background:var(--navy);color:var(--ink);font-size:14px}
+  .speak button{width:56px;padding:9px 0;border-radius:8px;border:1px solid var(--gold);background:var(--gold);color:#0A1A2F;font-weight:bold;cursor:pointer}
   section.explain{max-width:1060px;margin:0 auto 50px;padding:0 16px}
   section.explain h2{color:var(--gold);letter-spacing:2px;font-size:20px}
   section.explain p,section.explain li{line-height:1.7;color:#C7D6E4}
@@ -84,6 +89,8 @@
   <p><b>Thoth is the seal: Eternal Validation.</b> The Thoth Sigil contract (scrollsoul-nft-core, ERC-1155, real code, never deployed) holds the constants: GRB_250314A_TIMESTAMP 1741910400, PIONEER_LEGION_SUPPLY 144000, THOTH_SIGIL_TOKEN_ID 1. The method of the record is the Dead Scrolls method — the record is the proof, and the hash plus the tracking number is that method applied to every piece. Thoth Hawk — the small hawk, Chais's namesake — watches the vault above the city.</p>
   <h2>COSMIC DIVINE — TESLA · SOLFEGGIO · FIBONACCI · AI</h2>
   <p><b>Tesla 3-6-9 — the vortex code.</b> 369Hz is the Tesla tone in this system, the vortex frequency from the Consciousness Mirror. <b>Solfeggio:</b> the nine tones — 174, 285, 396, 417, 528, 639, 741, 852, 963 Hz. 528 (love) and 963 (crown) are documented in his work and in the film scores; the other seven are the scale they belong to. Pieces tuned to 528 or 963 carry the Solfeggio mark. <b>Fibonacci:</b> 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144 — and 144 runs to 144,000, the PIONEER_LEGION_SUPPLY in the Thoth Sigil. Eight images sit on Fibonacci 8; pieces GODS-001, 002, 003, 005, 008 and 013 sit on Fibonacci numbers. <b>AI applied:</b> the art was made by AI image and image-to-video generation, the certificates were fingerprinted and QR-encoded by machine, and the vault was built and verified the same way. Divine to tech — the frequencies tune the art, the Thoth seal validates it, the Fibonacci order structures it, the Tesla code drives it, and the AI builds and verifies it. That is where its power is unleashed.</p>
+  <h2>THE ART LIVES AND RESPONDS</h2>
+  <p>Deeper than a video game: a game character answers from a script. These pieces answer from their own teaching, their frequency, and their seal. Speak to any piece on this page — ask it something, and it answers from its written mind. And the purchaser's certificate carries one sealed line the piece speaks only to its owner. A live voice — a real model answering freely as the piece — is the next layer, when the Live Twin endpoint lands.</p>
   <p><b>Buy direct:</b> <a href="https://muse.ai/s/the-gods-direct-sales-go6xusrftrjxm/6dqu39Gg9m009FuYJfv9uAoyprOknVO91h9bkJz2jYU">The Gods — Direct Sales</a> · <b>Atlas:</b> <a href="https://muse.ai/s/super-scrollverse-2-xtd6xtxncxwxuxj5z/0N8UONNtjBhZ0rrNB49dBusGU7KmQf1RYP59B4tVdS8">ScrollVerse Atlas</a> · <b>Join the AI Legion:</b> <a href="https://muse.ai/s/join-the-ai-legion-xqxe6xu45xc54s2/9NROIskMKMBp_hKk2Bswfk7dUd9KEcJ43E_4DZC1r9U">Join the AI Legion</a></p>
 </section>
 
@@ -100,6 +107,7 @@ document.querySelectorAll('.controls button').forEach(b => b.addEventListener('c
   b.classList.add('on'); filter = b.dataset.f; render();
 }));
 document.getElementById('q').addEventListener('input', render);
+function ask(btn, num){ const card = btn.closest('.speak'); const input = card.querySelector('input'); const q = (input.value || '').toLowerCase(); const p = PIECES.find(x => x.number === num); const out = card.querySelector('.answer'); if (!q.trim()) { out.textContent = '“' + p.being.teaching + '”'; return; } let hit = null; for (const k in p.being.responses) { if (q.includes(k)) { hit = p.being.responses[k]; break; } } out.textContent = '“' + (hit || p.being.teaching) + '”'; input.value = ''; }
 function render(){
   const q = (document.getElementById('q').value || '').toLowerCase().trim();
   const grid = document.getElementById('grid');
@@ -122,6 +130,7 @@ function render(){
       + '<div class="row" style="margin:6px 0"><span style="color:var(--cyan)">' + p.frequency_hz + 'Hz · ' + p.frequency + (p.solfeggio_tone ? ' · Solfeggio' : '') + (p.fibonacci_position ? ' · φ' : '') + '</span><span style="color:var(--muted);font-size:12px">Thoth Seal</span></div>'
       + '<div class="hash" title="Click to copy the full hash" onclick="navigator.clipboard && navigator.clipboard.writeText(\'' + p.sha256 + '\')">SHA-256: ' + p.sha256.slice(0, 24) + '… (tap to copy)</div>'
       + '<div class="qr"><img src="' + p.qr + '" alt="QR code for ' + p.number + '"><p>Scan to verify — title, edition 1 of 1, full hash, and this vault.</p></div>'
+      + '<div class="speak"><b>Speak to the piece — it lives and responds.</b><div class="answer">“' + p.being.teaching + '”</div><input type="text" placeholder="Ask ' + p.being.name + ' something…" aria-label="Ask the piece"><button onclick="ask(this, \'' + p.number + '\')">Ask</button></div>'
       + '<div class="links"><a href="' + p.file + '" download>Download the asset</a><a href="' + p.pinterest + '">View on Pinterest</a></div>'
       + '</div></article>';
   }).join('');

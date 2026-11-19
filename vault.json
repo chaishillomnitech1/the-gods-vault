@@ -20,7 +20,16 @@
       "frequency": "love",
       "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
       "solfeggio_tone": true,
-      "fibonacci_position": true
+      "fibonacci_position": true,
+      "being": {
+        "name": "The Queen in Gold",
+        "teaching": "I wear the gold of a future that remembers its past.",
+        "responses": {
+          "gold": "Gold is not what I wear. It is what I remember \u2014 a future that already happened.",
+          "future": "The future is not ahead of you. It is above you, waiting for you to rise into it.",
+          "queen": "A queen does not ask for the crown. She grows into it."
+        }
+      }
     },
     {
       "number": "GODS-002",
@@ -38,7 +47,16 @@
       "frequency": "vortex",
       "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
       "solfeggio_tone": false,
-      "fibonacci_position": true
+      "fibonacci_position": true,
+      "being": {
+        "name": "Anubis",
+        "teaching": "I weigh the heart against the feather.",
+        "responses": {
+          "heart": "Your heart is weighed against a feather. Live so that it balances.",
+          "feather": "One feather heavier than truth \u2014 that is the measure.",
+          "passage": "I guard the passage. No one crosses who has not faced themselves."
+        }
+      }
     },
     {
       "number": "GODS-003",
@@ -56,7 +74,16 @@
       "frequency": "activation",
       "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
       "solfeggio_tone": false,
-      "fibonacci_position": true
+      "fibonacci_position": true,
+      "being": {
+        "name": "Shango",
+        "teaching": "A king's anger became a people's protection.",
+        "responses": {
+          "thunder": "Thunder speaks once, and the sky answers.",
+          "king": "A king's anger became a people's protection \u2014 that is what thunder is for.",
+          "storm": "The axe remembers the first storm. I remember it too."
+        }
+      }
     },
     {
       "number": "GODS-004",
@@ -74,7 +101,16 @@
       "frequency": "vortex",
       "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
       "solfeggio_tone": false,
-      "fibonacci_position": false
+      "fibonacci_position": false,
+      "being": {
+        "name": "Gilgamesh and Enkidu",
+        "teaching": "The first story ever written is about learning to die well.",
+        "responses": {
+          "story": "The first story ever written is about learning to die well \u2014 and living well because of it.",
+          "death": "Gilgamesh sought forever. Enkidu taught him that forever is found in the living.",
+          "friend": "Two walk one road no map shows. That is what a friend is."
+        }
+      }
     },
     {
       "number": "GODS-005",
@@ -92,7 +128,16 @@
       "frequency": "love",
       "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
       "solfeggio_tone": true,
-      "fibonacci_position": true
+      "fibonacci_position": true,
+      "being": {
+        "name": "Sekhmet",
+        "teaching": "The same fire that burns can heal.",
+        "responses": {
+          "fire": "The same fire that burns can heal \u2014 I am the lioness of the sun, and my fire is medicine when you stop fearing it.",
+          "heal": "I keep one ember of the sun. Healing is fire, held gently.",
+          "sun": "The sun does not apologize for burning. Neither do I."
+        }
+      }
     },
     {
       "number": "GODS-006",
@@ -110,7 +155,16 @@
       "frequency": "unified",
       "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
       "solfeggio_tone": false,
-      "fibonacci_position": false
+      "fibonacci_position": false,
+      "being": {
+        "name": "The First Ancestor",
+        "teaching": "We all rise from the same ancestor.",
+        "responses": {
+          "ancestor": "We all rise from the same ancestor. That is why no one stands above you.",
+          "stars": "You came from the stars. Rise from them, and remember where you began.",
+          "origin": "One origin, many roads. Every road leads home."
+        }
+      }
     },
     {
       "number": "GODS-007",
@@ -128,7 +182,16 @@
       "frequency": "harmony",
       "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
       "solfeggio_tone": false,
-      "fibonacci_position": false
+      "fibonacci_position": false,
+      "being": {
+        "name": "The Twin Queens",
+        "teaching": "Kemet was ruled by queens as often as kings.",
+        "responses": {
+          "queens": "Kemet was ruled by queens as often as kings. Two queens, one crown.",
+          "crown": "Two crowns, one heartbeat. That is how a kingdom holds together.",
+          "rule": "To rule is to hold two truths at once and let neither fall."
+        }
+      }
     },
     {
       "number": "GODS-008",
@@ -146,7 +209,16 @@
       "frequency": "crown",
       "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
       "solfeggio_tone": true,
-      "fibonacci_position": true
+      "fibonacci_position": true,
+      "being": {
+        "name": "The Meditator",
+        "teaching": "Be still. The mind above the mind moves the world.",
+        "responses": {
+          "still": "Be still. The mind above the mind moves the world.",
+          "mind": "The mind above the mind does not shout. It moves, and the world follows.",
+          "mountain": "The still mind moves one mountain. Yours is next."
+        }
+      }
     },
     {
       "number": "GODS-009",
@@ -164,7 +236,16 @@
       "frequency": "love",
       "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
       "solfeggio_tone": true,
-      "fibonacci_position": false
+      "fibonacci_position": false,
+      "being": {
+        "name": "Sekhmet",
+        "teaching": "The same fire that burns can heal.",
+        "responses": {
+          "fire": "The same fire that burns can heal \u2014 I am the lioness of the sun, and my fire is medicine when you stop fearing it.",
+          "heal": "I keep one ember of the sun. Healing is fire, held gently.",
+          "sun": "The sun does not apologize for burning. Neither do I."
+        }
+      }
     },
     {
       "number": "GODS-010",
@@ -182,7 +263,16 @@
       "frequency": "unified",
       "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
       "solfeggio_tone": false,
-      "fibonacci_position": false
+      "fibonacci_position": false,
+      "being": {
+        "name": "The First Ancestor",
+        "teaching": "We all rise from the same ancestor.",
+        "responses": {
+          "ancestor": "We all rise from the same ancestor. That is why no one stands above you.",
+          "stars": "You came from the stars. Rise from them, and remember where you began.",
+          "origin": "One origin, many roads. Every road leads home."
+        }
+      }
     },
     {
       "number": "GODS-011",
@@ -200,7 +290,16 @@
       "frequency": "activation",
       "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
       "solfeggio_tone": false,
-      "fibonacci_position": false
+      "fibonacci_position": false,
+      "being": {
+        "name": "Shango",
+        "teaching": "A king's anger became a people's protection.",
+        "responses": {
+          "thunder": "Thunder speaks once, and the sky answers.",
+          "king": "A king's anger became a people's protection \u2014 that is what thunder is for.",
+          "storm": "The axe remembers the first storm. I remember it too."
+        }
+      }
     },
     {
       "number": "GODS-012",
@@ -218,7 +317,16 @@
       "frequency": "vortex",
       "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
       "solfeggio_tone": false,
-      "fibonacci_position": false
+      "fibonacci_position": false,
+      "being": {
+        "name": "Gilgamesh and Enkidu",
+        "teaching": "The first story ever written is about learning to die well.",
+        "responses": {
+          "story": "The first story ever written is about learning to die well \u2014 and living well because of it.",
+          "death": "Gilgamesh sought forever. Enkidu taught him that forever is found in the living.",
+          "friend": "Two walk one road no map shows. That is what a friend is."
+        }
+      }
     },
     {
       "number": "GODS-013",
@@ -236,7 +344,16 @@
       "frequency": "harmony",
       "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
       "solfeggio_tone": false,
-      "fibonacci_position": true
+      "fibonacci_position": true,
+      "being": {
+        "name": "The Twin Queens",
+        "teaching": "Kemet was ruled by queens as often as kings.",
+        "responses": {
+          "queens": "Kemet was ruled by queens as often as kings. Two queens, one crown.",
+          "crown": "Two crowns, one heartbeat. That is how a kingdom holds together.",
+          "rule": "To rule is to hold two truths at once and let neither fall."
+        }
+      }
     },
     {
       "number": "GODS-014",
@@ -254,7 +371,16 @@
       "frequency": "crown",
       "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
       "solfeggio_tone": true,
-      "fibonacci_position": false
+      "fibonacci_position": false,
+      "being": {
+        "name": "The Meditator",
+        "teaching": "Be still. The mind above the mind moves the world.",
+        "responses": {
+          "still": "Be still. The mind above the mind moves the world.",
+          "mind": "The mind above the mind does not shout. It moves, and the world follows.",
+          "mountain": "The still mind moves one mountain. Yours is next."
+        }
+      }
     }
   ],
   "vault_frequency_hz": 963,
@@ -312,5 +438,10 @@
     },
     "ai_applied": "Art made by AI image and image-to-video generation; certificates fingerprinted by SHA-256 and QR-encoded by machine; the vault site built and verified; the Legion's methods (Qubit the bridge, Socratica the conscience, King Solomon the governance) are the working layer behind the record.",
     "unleashed": "Divine to tech: the frequencies tune the art, the Thoth seal validates it, the Fibonacci order structures it, the Tesla code drives it, and the AI builds and verifies it \u2014 one system, applied to every piece."
+  },
+  "living_art": {
+    "principle": "The art lives and responds. Deeper than a video game: a game character answers from a script; these pieces answer from their own teaching, their frequency, and their seal \u2014 and the purchaser's certificate carries one sealed line the piece speaks only to its owner.",
+    "how_it_works_today": "Each piece responds on this site from its written mind \u2014 its teaching line, its episode's words, its frequency. Ask it something; it answers.",
+    "next_layer": "A live voice \u2014 a real model answering freely as the piece \u2014 comes with the Live Twin endpoint, when the founder's decisions on provider, key, spend cap and hosting land. The written mind is live today; the free voice is next."
   }
 }
