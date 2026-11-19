@@ -2,7 +2,7 @@
   "collection": "THE GODS \u2014 The Vault",
   "artist": "Chais The Great",
   "updated": "2026-11-19",
-  "collection_value_usd": 5986,
+  "collection_value_usd": 22220,
   "pieces": [
     {
       "number": "GODS-001",
@@ -12,7 +12,7 @@
       "bytes": 772652,
       "sha256": "3d40b5ea22359a10f8932cd23be629e7eb32d92ac61c93bc1ae5156413b0bb1b",
       "qr": "qr/01-afrofuturism-queen.png",
-      "value_usd": 299,
+      "value_usd": 1111,
       "status": "HELD",
       "board": "Afrofuturism Art",
       "pinterest": "https://www.pinterest.com/pin/1141099625204922444/"
@@ -25,7 +25,7 @@
       "bytes": 682934,
       "sha256": "94aaaff8a8810133eec67eddb3f7a87139d0a9d91c407850e17f4dc7d4ee9e6f",
       "qr": "qr/02-anubis.png",
-      "value_usd": 299,
+      "value_usd": 1111,
       "status": "HELD",
       "board": "Egyptian God Art",
       "pinterest": "https://www.pinterest.com/pin/1141099625204922539/"
@@ -38,7 +38,7 @@
       "bytes": 706748,
       "sha256": "9889fdbab4964f658537cfc5e57d94046c9869a1cb4d3c3c164764d40c34f144",
       "qr": "qr/03-shango.png",
-      "value_usd": 299,
+      "value_usd": 1111,
       "status": "HELD",
       "board": "Orisha Gods",
       "pinterest": "https://www.pinterest.com/pin/1141099625204922607/"
@@ -51,7 +51,7 @@
       "bytes": 519634,
       "sha256": "acfaacbd286e28b43f1dcb314fee0b19101df25b9569f32761988205d3e051e8",
       "qr": "qr/04-gilgamesh-enkidu.png",
-      "value_usd": 299,
+      "value_usd": 1111,
       "status": "HELD",
       "board": "Mesopotamian Gods",
       "pinterest": "https://www.pinterest.com/pin/1141099625204922669/"
@@ -64,7 +64,7 @@
       "bytes": 740088,
       "sha256": "4b633ca28a8160630149d8be8499f77e4c80641e479cf7de73ea4937eb1915a1",
       "qr": "qr/05-sekhmet.png",
-      "value_usd": 299,
+      "value_usd": 1111,
       "status": "HELD",
       "board": "Egyptian God Art",
       "pinterest": "https://www.pinterest.com/pin/1141099625204922721/"
@@ -77,7 +77,7 @@
       "bytes": 848334,
       "sha256": "36204aa2e79648c11d5946c459efbd685ddebfe8967ab6a1c2e64aa48e7fe1fe",
       "qr": "qr/06-first-ancestor.png",
-      "value_usd": 299,
+      "value_usd": 1111,
       "status": "HELD",
       "board": "Afrofuturism Art",
       "pinterest": "https://www.pinterest.com/pin/1141099625204922773/"
@@ -90,7 +90,7 @@
       "bytes": 828508,
       "sha256": "3056810b4234d80825340cd5c20b5a7f74c99fc6eab44cf9e5519d6583250b26",
       "qr": "qr/07-twin-queens.png",
-      "value_usd": 299,
+      "value_usd": 1111,
       "status": "HELD",
       "board": "African Mythology",
       "pinterest": "https://www.pinterest.com/pin/1141099625204922897/"
@@ -103,7 +103,7 @@
       "bytes": 301768,
       "sha256": "fb00dfcec43dff86652d5deca4c88f1bd28a6238bf2953c145741817c103b0d0",
       "qr": "qr/08-meditator.png",
-      "value_usd": 299,
+      "value_usd": 1111,
       "status": "HELD",
       "board": "Afrofuturism Art",
       "pinterest": "https://www.pinterest.com/pin/1141099625204922931/"
@@ -116,7 +116,7 @@
       "bytes": 7780365,
       "sha256": "caa19096749e261b1238fcf351a6c6071d571e6a80892e79b2a78293ecb076ad",
       "qr": "qr/09-sekhmet-clip.png",
-      "value_usd": 599,
+      "value_usd": 2222,
       "status": "HELD",
       "board": "Egyptian God Art",
       "pinterest": "https://www.pinterest.com/pin/1141099625204922978/"
@@ -129,7 +129,7 @@
       "bytes": 8098080,
       "sha256": "3b355d8e2c4a44d5d41be16536f3c07f242b870a0439dc29be66279ac98c37ad",
       "qr": "qr/10-first-ancestor-clip.png",
-      "value_usd": 599,
+      "value_usd": 2222,
       "status": "HELD",
       "board": "Afrofuturism Art",
       "pinterest": "https://www.pinterest.com/pin/1141099625204923068/"
@@ -142,7 +142,7 @@
       "bytes": 8319042,
       "sha256": "bf6d494d06e45014d0b6bf0b6c8b73a5b36ceb8635990119fc006ebfdabe3af7",
       "qr": "qr/11-shango-clip.png",
-      "value_usd": 599,
+      "value_usd": 2222,
       "status": "HELD",
       "board": "Orisha Gods",
       "pinterest": "https://www.pinterest.com/pin/1141099625204923202/"
@@ -155,7 +155,7 @@
       "bytes": 6343772,
       "sha256": "fb61c8bd761173c0ea367a71a8462922928d024f681b60bb7dfa0a115cd07e00",
       "qr": "qr/12-gilgamesh-enkidu-clip.png",
-      "value_usd": 599,
+      "value_usd": 2222,
       "status": "HELD",
       "board": "Mesopotamian Gods",
       "pinterest": "https://www.pinterest.com/pin/1141099625204923333/"
@@ -168,7 +168,7 @@
       "bytes": 7799317,
       "sha256": "495c3081a92599a0c5aeb78d273367da385c3402197f47ad461514a8152486a9",
       "qr": "qr/13-twin-queens-clip.png",
-      "value_usd": 599,
+      "value_usd": 2222,
       "status": "HELD",
       "board": "African Mythology",
       "pinterest": "https://www.pinterest.com/pin/1141099625204923441/"
@@ -181,7 +181,7 @@
       "bytes": 4352064,
       "sha256": "d0949eabd00b3b69d8745ec59f0adc8e96e44023b923a2d2d73c31fc466f8631",
       "qr": "qr/14-meditator-clip.png",
-      "value_usd": 599,
+      "value_usd": 2222,
       "status": "HELD",
       "board": "Afrofuturism Art",
       "pinterest": "https://www.pinterest.com/pin/1141099625204923532/"

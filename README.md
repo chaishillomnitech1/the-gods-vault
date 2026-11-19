@@ -13,22 +13,22 @@ proof — live:
 
 | No. | Piece | Type | Value | Status |
 |-----|-------|------|-------|--------|
-| GODS-001 | Afrofuturism — The Queen in Gold | Image | $299 | HELD |
-| GODS-002 | Anubis Before the Pyramids | Image | $299 | HELD |
-| GODS-003 | Shango — Thunder Speaks | Image | $299 | HELD |
-| GODS-004 | Gilgamesh and Enkidu at the Gates of Uruk | Image | $299 | HELD |
-| GODS-005 | Sekhmet — The Little Lioness of the Sun | Image | $299 | HELD |
-| GODS-006 | The First Ancestor — Rise From the Stars | Image | $299 | HELD |
-| GODS-007 | Twin Queens — Two Queens, One Crown | Image | $299 | HELD |
-| GODS-008 | The Meditator — The Mind Above the Mind | Image | $299 | HELD |
-| GODS-009 | Sekhmet — The Little Lioness of the Sun (Clip) | Clip, 10s | $599 | HELD |
-| GODS-010 | The First Ancestor — Rise From the Stars (Clip) | Clip, 10s | $599 | HELD |
-| GODS-011 | Shango — Thunder Speaks (Clip) | Clip, 10s | $599 | HELD |
-| GODS-012 | Gilgamesh and Enkidu at the Gates of Uruk (Clip) | Clip, 10s | $599 | HELD |
-| GODS-013 | Twin Queens — Two Queens, One Crown (Clip) | Clip, 10s | $599 | HELD |
-| GODS-014 | The Meditator — The Mind Above the Mind (Clip) | Clip, 10s | $599 | HELD |
+| GODS-001 | Afrofuturism — The Queen in Gold | Image | $1,111 | HELD |
+| GODS-002 | Anubis Before the Pyramids | Image | $1,111 | HELD |
+| GODS-003 | Shango — Thunder Speaks | Image | $1,111 | HELD |
+| GODS-004 | Gilgamesh and Enkidu at the Gates of Uruk | Image | $1,111 | HELD |
+| GODS-005 | Sekhmet — The Little Lioness of the Sun | Image | $1,111 | HELD |
+| GODS-006 | The First Ancestor — Rise From the Stars | Image | $1,111 | HELD |
+| GODS-007 | Twin Queens — Two Queens, One Crown | Image | $1,111 | HELD |
+| GODS-008 | The Meditator — The Mind Above the Mind | Image | $1,111 | HELD |
+| GODS-009 | Sekhmet — The Little Lioness of the Sun (Clip) | Clip, 10s | $2,222 | HELD |
+| GODS-010 | The First Ancestor — Rise From the Stars (Clip) | Clip, 10s | $2,222 | HELD |
+| GODS-011 | Shango — Thunder Speaks (Clip) | Clip, 10s | $2,222 | HELD |
+| GODS-012 | Gilgamesh and Enkidu at the Gates of Uruk (Clip) | Clip, 10s | $2,222 | HELD |
+| GODS-013 | Twin Queens — Two Queens, One Crown (Clip) | Clip, 10s | $2,222 | HELD |
+| GODS-014 | The Meditator — The Mind Above the Mind (Clip) | Clip, 10s | $2,222 | HELD |
 
-**Collection value at launch: $5,986.** Values are launch values, set by
+**Collection value at launch: $22,220.** Values are launch values, set by
 the artist — they change only when he changes them, and the record here
 updates with them.
 
