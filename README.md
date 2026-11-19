@@ -93,6 +93,29 @@ voice — a real model answering freely as the piece — is the next
 layer, when the Live Twin endpoint lands (provider, key, spend cap
 and hosting are the founder's decisions).
 
+## Open Tier — Agape
+
+Open to everyone, priced for the less fortunate — **$11.11**, one
+hundredth of the master price, no questions asked.
+
+The buyer gets the same art as an Open Edition (never the one-of-one),
+an Open Edition certificate (a different certificate class — it never
+carries the master's sealed element), and the right to enhance and
+reshape it. The enhanced version becomes their own piece, registered
+in this vault as a Second Generation piece with its own tracking
+number, hash, and QR. Credit must read "Chais The Great — after
+GODS-00X". It may never be claimed as the one-of-one.
+
+**Levels:** 1 Received · 2 Enhanced (something added) · 3 Reshaped (a
+new composition) · 4 Innovation (a new form — a clip, a song, a game
+piece, a teaching). A piece is worth what its addition made it: the
+vault records the addition, the level, and every sale. The value is
+appraised when the enhanced piece is registered and updated when it
+sells. Nothing is promised — the record is the proof, and the sale is
+the price.
+
+The one-of-one master is never diluted.
+
 ## How to verify your piece
 
 1. Find it by tracking number (GODS-001 to GODS-014) on the vault site.

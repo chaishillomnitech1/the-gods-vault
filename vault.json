@@ -443,5 +443,21 @@
     "principle": "The art lives and responds. Deeper than a video game: a game character answers from a script; these pieces answer from their own teaching, their frequency, and their seal \u2014 and the purchaser's certificate carries one sealed line the piece speaks only to its owner.",
     "how_it_works_today": "Each piece responds on this site from its written mind \u2014 its teaching line, its episode's words, its frequency. Ask it something; it answers.",
     "next_layer": "A live voice \u2014 a real model answering freely as the piece \u2014 comes with the Live Twin endpoint, when the founder's decisions on provider, key, spend cap and hosting land. The written mind is live today; the free voice is next."
+  },
+  "open_tier": {
+    "name": "Open Tier \u2014 Agape",
+    "price_usd": 11.11,
+    "principle": "Open to everyone, priced for the less fortunate. No questions, no means test \u2014 agape means no gatekeeping. One hundredth of the master price.",
+    "what_the_buyer_gets": "The same art, as an Open Edition \u2014 not the one-of-one. An Open Edition certificate (a different certificate class \u2014 it never carries the master's sealed element, never claims to be the one-of-one). The right to enhance and reshape it.",
+    "derivative_license": "Non-exclusive. You may add to it, remix it, reshape it. Your enhanced version becomes your own piece, registered in this vault as a Second Generation piece with its own tracking number, hash, and QR. You must credit 'Chais The Great \u2014 after GODS-00X' and you may never claim it is the one-of-one.",
+    "levels": {
+      "Level 1 \u2014 Received": "The open piece as received. Value $11.11.",
+      "Level 2 \u2014 Enhanced": "You added something \u2014 color, sound, a new layer, a teaching. The addition is described in the registry.",
+      "Level 3 \u2014 Reshaped": "A new composition built on the original \u2014 the piece reshaped into something of its own.",
+      "Level 4 \u2014 Innovation": "A new form \u2014 a clip, a song, a game piece, a teaching, a tool. The piece became something the original could not do alone."
+    },
+    "how_value_grows": "A piece is worth what its addition made it. The vault records the addition, the level, and every sale. The value is appraised when the enhanced piece is registered (the artist reviews it) and updated when it sells. Nothing is promised \u2014 the record is the proof, and the sale is the price.",
+    "master_protected": "The one-of-one master is never diluted. The open tier is a separate edition, clearly marked. The master's certificate, QR, hash, and sealed element stay unique to the master, forever.",
+    "second_generation_registry": []
   }
 }
