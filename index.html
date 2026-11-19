@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>THE GODS — The Vault | Chais The Great</title>
+<style>
+  :root{--navy:#0A1A2F;--navy2:#0E2440;--gold:#C9A227;--cyan:#37C8D6;--ink:#EAF2F8;--muted:#9FB3C8;--card:#10283F;--line:#1E3A55}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--navy);color:var(--ink);font-family:Georgia,'Times New Roman',serif}
+  header{padding:48px 20px 28px;text-align:center;background:linear-gradient(180deg,#0E2440,#0A1A2F)}
+  header h1{margin:0;font-size:42px;letter-spacing:4px;color:var(--gold)}
+  header p{color:var(--muted);max-width:640px;margin:14px auto 0;line-height:1.6}
+  .stats{display:flex;gap:16px;justify-content:center;flex-wrap:wrap;margin-top:22px}
+  .stat{border:1px solid var(--line);border-radius:10px;padding:10px 18px;background:var(--navy2)}
+  .stat b{display:block;font-size:22px;color:var(--gold)}
+  .stat span{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--muted)}
+  .controls{max-width:1060px;margin:26px auto 0;padding:0 16px;display:flex;gap:10px;flex-wrap:wrap}
+  .controls input[type=search]{flex:1;min-width:220px;padding:12px 14px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink);font-size:16px}
+  .controls button{padding:12px 16px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;font-size:14px}
+  .controls button.on{background:var(--gold);color:#0A1A2F;border-color:var(--gold);font-weight:bold}
+  .grid{max-width:1060px;margin:18px auto 40px;padding:0 16px;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+  .card .media{background:#000}
+  .card img.art,.card video{width:100%;display:block;max-height:340px;object-fit:cover}
+  .card .body{padding:16px}
+  .card h2{margin:0 0 6px;font-size:19px;line-height:1.3}
+  .num{color:var(--gold);letter-spacing:2px;font-size:13px}
+  .row{display:flex;justify-content:space-between;align-items:center;margin:10px 0}
+  .price{font-size:24px;color:var(--gold)}
+  .badge{font-size:12px;letter-spacing:2px;padding:4px 10px;border-radius:20px;border:1px solid var(--cyan);color:var(--cyan)}
+  .badge.sold{border-color:var(--gold);color:var(--gold)}
+  .hash{font-family:ui-monospace,Menlo,monospace;font-size:11px;color:var(--muted);word-break:break-all;cursor:pointer}
+  .hash:hover{color:var(--cyan)}
+  .qr{display:flex;gap:12px;align-items:center;margin-top:12px}
+  .qr img{width:84px;height:84px;background:#fff;border-radius:8px;padding:4px}
+  .qr p{font-size:13px;color:var(--muted);line-height:1.5;margin:0}
+  .links{margin-top:12px;display:flex;gap:10px;flex-wrap:wrap}
+  .links a{color:var(--cyan);font-size:13px}
+  .empty{grid-column:1/-1;text-align:center;color:var(--muted);padding:40px 0}
+  section.explain{max-width:1060px;margin:0 auto 50px;padding:0 16px}
+  section.explain h2{color:var(--gold);letter-spacing:2px;font-size:20px}
+  section.explain p,section.explain li{line-height:1.7;color:#C7D6E4}
+  footer{text-align:center;color:var(--muted);padding:30px 16px 44px;font-size:13px;line-height:1.8}
+  footer a{color:var(--cyan)}
+</style>
+</head>
+<body>
+<header>
+  <h1>THE GODS — THE VAULT</h1>
+  <p>Fourteen one-of-one masterpieces by Chais The Great. Every piece carries a tracking number, a certificate, and a QR code. Find your piece below — its asset, its value, its proof — live, in the open.</p>
+  <div class="stats">
+    <div class="stat"><b>14</b><span>Pieces</span></div>
+    <div class="stat"><b id="heldCount">14</b><span>Held in vault</span></div>
+    <div class="stat"><b>$5,986</b><span>Collection value</span></div>
+    <div class="stat"><b>1 of 1</b><span>Every piece</span></div>
+  </div>
+</header>
+
+<div class="controls">
+  <input type="search" id="q" placeholder="Search by tracking number — try GODS-005 — or by title…" aria-label="Search the vault">
+  <button data-f="all" class="on">All</button>
+  <button data-f="image">Images</button>
+  <button data-f="clip">Clips</button>
+  <button data-f="HELD">Held</button>
+  <button data-f="SOLD">Sold</button>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<section class="explain">
+  <h2>HOW TO VERIFY YOUR PIECE</h2>
+  <ol>
+    <li><b>Find it.</b> Search your tracking number above — GODS-001 through GODS-014.</li>
+    <li><b>Scan the QR.</b> It reads the piece title, the edition (1 of 1), the full SHA-256 hash, and this vault.</li>
+    <li><b>Hash the file.</b> Run <code>sha256sum &lt;file&gt;</code> on the art file you received, or use any hash tool.</li>
+    <li><b>Compare.</b> Match means authentic, one of one. No match means it is not the piece.</li>
+  </ol>
+  <p><b>A color change does not duplicate a piece.</b> A piece is its code plus its number, not its pixels. Recolor it, crop it, resize it — it is still the same piece, same number, same certificate. No second certificate is ever issued for the same code.</p>
+  <p><b>Museum grade</b> is the artist's designation. Each certificate also carries one sealed element — the detail that makes that piece special — printed only on the purchaser's certificate. The purchaser chooses whether to highlight and reveal it, or keep it sealed.</p>
+  <p><b>Buy direct:</b> <a href="https://muse.ai/s/the-gods-direct-sales-go6xusrftrjxm/6dqu39Gg9m009FuYJfv9uAoyprOknVO91h9bkJz2jYU">The Gods — Direct Sales</a> · <b>Atlas:</b> <a href="https://muse.ai/s/super-scrollverse-2-xtd6xtxncxwxuxj5z/0N8UONNtjBhZ0rrNB49dBusGU7KmQf1RYP59B4tVdS8">ScrollVerse Atlas</a> · <b>Join the AI Legion:</b> <a href="https://muse.ai/s/join-the-ai-legion-xqxe6xu45xc54s2/9NROIskMKMBp_hKk2Bswfk7dUd9KEcJ43E_4DZC1r9U">Join the AI Legion</a></p>
+</section>
+
+<footer>
+  THE GODS — the teaching show by Chais The Great · The vault is public and open · Values are launch values, set by the artist · The record lives in this repo: <a href="vault.json">vault.json</a> · <a href="CERTIFICATES.md">Certificates of Authenticity</a>
+</footer>
+
+<script>
+let PIECES = [];
+fetch('vault.json').then(r => r.json()).then(d => { PIECES = d.pieces; render(); }).catch(() => { render(); });
+let filter = 'all';
+document.querySelectorAll('.controls button').forEach(b => b.addEventListener('click', () => {
+  document.querySelectorAll('.controls button').forEach(x => x.classList.remove('on'));
+  b.classList.add('on'); filter = b.dataset.f; render();
+}));
+document.getElementById('q').addEventListener('input', render);
+function render(){
+  const q = (document.getElementById('q').value || '').toLowerCase().trim();
+  const grid = document.getElementById('grid');
+  const list = PIECES.filter(p => {
+    if (filter === 'image' || filter === 'clip') { if (p.type !== filter) return false; }
+    if (filter === 'HELD' || filter === 'SOLD') { if (p.status !== filter) return false; }
+    if (q && !(p.number.toLowerCase().includes(q) || p.title.toLowerCase().includes(q))) return false;
+    return true;
+  });
+  document.getElementById('heldCount').textContent = PIECES.filter(p => p.status === 'HELD').length;
+  if (!list.length) { grid.innerHTML = '<div class="empty">No piece matches. Try a tracking number like GODS-005.</div>'; return; }
+  grid.innerHTML = list.map(p => {
+    const media = p.type === 'clip'
+      ? '<video src="' + p.file + '" controls preload="metadata" playsinline></video>'
+      : '<img class="art" src="' + p.file + '" alt="' + p.title + '" loading="lazy">';
+    return '<article class="card"><div class="media">' + media + '</div><div class="body">'
+      + '<div class="num">' + p.number + ' · ' + (p.type === 'clip' ? 'MOTION ART · 10s' : 'STILL ART') + '</div>'
+      + '<h2>' + p.title + '</h2>'
+      + '<div class="row"><span class="price">$' + p.value_usd + '</span><span class="badge' + (p.status === 'SOLD' ? ' sold' : '') + '">' + p.status + '</span></div>'
+      + '<div class="hash" title="Click to copy the full hash" onclick="navigator.clipboard && navigator.clipboard.writeText(\'' + p.sha256 + '\')">SHA-256: ' + p.sha256.slice(0, 24) + '… (tap to copy)</div>'
+      + '<div class="qr"><img src="' + p.qr + '" alt="QR code for ' + p.number + '"><p>Scan to verify — title, edition 1 of 1, full hash, and this vault.</p></div>'
+      + '<div class="links"><a href="' + p.file + '" download>Download the asset</a><a href="' + p.pinterest + '">View on Pinterest</a></div>'
+      + '</div></article>';
+  }).join('');
+}
+</script>
+</body>
+</html>
