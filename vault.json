@@ -18,7 +18,9 @@
       "pinterest": "https://www.pinterest.com/pin/1141099625204922444/",
       "frequency_hz": 528,
       "frequency": "love",
-      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": true,
+      "fibonacci_position": true
     },
     {
       "number": "GODS-002",
@@ -34,7 +36,9 @@
       "pinterest": "https://www.pinterest.com/pin/1141099625204922539/",
       "frequency_hz": 369,
       "frequency": "vortex",
-      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": true
     },
     {
       "number": "GODS-003",
@@ -50,7 +54,9 @@
       "pinterest": "https://www.pinterest.com/pin/1141099625204922607/",
       "frequency_hz": 777,
       "frequency": "activation",
-      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": true
     },
     {
       "number": "GODS-004",
@@ -66,7 +72,9 @@
       "pinterest": "https://www.pinterest.com/pin/1141099625204922669/",
       "frequency_hz": 369,
       "frequency": "vortex",
-      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": false
     },
     {
       "number": "GODS-005",
@@ -82,7 +90,9 @@
       "pinterest": "https://www.pinterest.com/pin/1141099625204922721/",
       "frequency_hz": 528,
       "frequency": "love",
-      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": true,
+      "fibonacci_position": true
     },
     {
       "number": "GODS-006",
@@ -98,7 +108,9 @@
       "pinterest": "https://www.pinterest.com/pin/1141099625204922773/",
       "frequency_hz": 111,
       "frequency": "unified",
-      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": false
     },
     {
       "number": "GODS-007",
@@ -114,7 +126,9 @@
       "pinterest": "https://www.pinterest.com/pin/1141099625204922897/",
       "frequency_hz": 432,
       "frequency": "harmony",
-      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": false
     },
     {
       "number": "GODS-008",
@@ -130,7 +144,9 @@
       "pinterest": "https://www.pinterest.com/pin/1141099625204922931/",
       "frequency_hz": 963,
       "frequency": "crown",
-      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": true,
+      "fibonacci_position": true
     },
     {
       "number": "GODS-009",
@@ -146,7 +162,9 @@
       "pinterest": "https://www.pinterest.com/pin/1141099625204922978/",
       "frequency_hz": 528,
       "frequency": "love",
-      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": true,
+      "fibonacci_position": false
     },
     {
       "number": "GODS-010",
@@ -162,7 +180,9 @@
       "pinterest": "https://www.pinterest.com/pin/1141099625204923068/",
       "frequency_hz": 111,
       "frequency": "unified",
-      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": false
     },
     {
       "number": "GODS-011",
@@ -178,7 +198,9 @@
       "pinterest": "https://www.pinterest.com/pin/1141099625204923202/",
       "frequency_hz": 777,
       "frequency": "activation",
-      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": false
     },
     {
       "number": "GODS-012",
@@ -194,7 +216,9 @@
       "pinterest": "https://www.pinterest.com/pin/1141099625204923333/",
       "frequency_hz": 369,
       "frequency": "vortex",
-      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": false
     },
     {
       "number": "GODS-013",
@@ -210,7 +234,9 @@
       "pinterest": "https://www.pinterest.com/pin/1141099625204923441/",
       "frequency_hz": 432,
       "frequency": "harmony",
-      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": true
     },
     {
       "number": "GODS-014",
@@ -226,7 +252,9 @@
       "pinterest": "https://www.pinterest.com/pin/1141099625204923532/",
       "frequency_hz": 963,
       "frequency": "crown",
-      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation"
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 \u2014 Eternal Validation",
+      "solfeggio_tone": true,
+      "fibonacci_position": false
     }
   ],
   "vault_frequency_hz": 963,
@@ -243,5 +271,46 @@
     "watcher": "Thoth Hawk \u2014 the small hawk, Chais's namesake \u2014 watches the vault above the city",
     "source": "Chais's repos and the Consciousness Mirror (Jewel 1); recorded as his material, not externally verified"
   },
-  "frequencies_source": "Jewel 1 \u2014 CONSCIOUSNESS MIRROR: 963 crown, 528 love, 369 vortex, 432 harmony, 777 activation, 111 unified. Assignments are the artist's system; change any with one word."
+  "frequencies_source": "Jewel 1 \u2014 CONSCIOUSNESS MIRROR: 963 crown, 528 love, 369 vortex, 432 harmony, 777 activation, 111 unified. Assignments are the artist's system; change any with one word.",
+  "cosmic_divine": {
+    "tesla": "3-6-9 \u2014 the vortex code. 369Hz is the Tesla tone in this system; the vortex frequency from the Consciousness Mirror.",
+    "solfeggio": {
+      "scale_hz": [
+        174,
+        285,
+        396,
+        417,
+        528,
+        639,
+        741,
+        852,
+        963
+      ],
+      "documented_in_his_work": [
+        528,
+        963
+      ],
+      "note": "528 (love) and 963 (crown) are documented in Jewel 1 and in the film scores; the other seven tones are the scale they belong to."
+    },
+    "fibonacci": {
+      "sequence": [
+        1,
+        1,
+        2,
+        3,
+        5,
+        8,
+        13,
+        21,
+        34,
+        55,
+        89,
+        144
+      ],
+      "phi": 1.618,
+      "vault_links": "144 in the sequence \u2192 144,000 (PIONEER_LEGION_SUPPLY, Thoth Sigil); 8 images = Fibonacci 8; pieces GODS-001, 002, 003, 005, 008, 013 sit on Fibonacci numbers."
+    },
+    "ai_applied": "Art made by AI image and image-to-video generation; certificates fingerprinted by SHA-256 and QR-encoded by machine; the vault site built and verified; the Legion's methods (Qubit the bridge, Socratica the conscience, King Solomon the governance) are the working layer behind the record.",
+    "unleashed": "Divine to tech: the frequencies tune the art, the Thoth seal validates it, the Fibonacci order structures it, the Tesla code drives it, and the AI builds and verifies it \u2014 one system, applied to every piece."
+  }
 }

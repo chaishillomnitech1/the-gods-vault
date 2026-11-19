@@ -59,6 +59,29 @@ Scrolls method — the record is the proof, and the hash plus the
 tracking number is that method applied to every piece. Thoth Hawk —
 the small hawk, Chais's namesake — watches the vault above the city.
 
+## Cosmic Divine — Tesla · Solfeggio · Fibonacci · AI
+
+**Tesla 3-6-9 — the vortex code.** 369Hz is the Tesla tone in this
+system, the vortex frequency from the Consciousness Mirror.
+
+**Solfeggio — the nine tones:** 174, 285, 396, 417, 528, 639, 741, 852,
+963 Hz. 528 (love) and 963 (crown) are documented in his work and in
+the film scores; the other seven are the scale they belong to. Pieces
+tuned to 528 or 963 carry the Solfeggio mark.
+
+**Fibonacci:** 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144 — and 144 runs
+to 144,000, the PIONEER_LEGION_SUPPLY in the Thoth Sigil. Eight images
+sit on Fibonacci 8; pieces GODS-001, 002, 003, 005, 008 and 013 sit on
+Fibonacci numbers.
+
+**AI applied:** the art was made by AI image and image-to-video
+generation, the certificates were fingerprinted and QR-encoded by
+machine, and the vault was built and verified the same way.
+
+Divine to tech: the frequencies tune the art, the Thoth seal validates
+it, the Fibonacci order structures it, the Tesla code drives it, and
+the AI builds and verifies it. That is where its power is unleashed.
+
 ## How to verify your piece
 
 1. Find it by tracking number (GODS-001 to GODS-014) on the vault site.
