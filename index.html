@@ -114,7 +114,7 @@
   <p><b>Intellectual property:</b> every piece is inventoried in the IP Protection Program (18 Nov 2026, 215 assets). The founder's direction: protect intellectual property in every way — law and space domain governance — and tokenize. Status today: timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate.</p>
   <p><b>Asteroid mining:</b> M-type asteroids are nickel-iron bodies carrying platinum-group metals — platinum, iridium, osmium, rhodium, palladium, rhenium. Each piece is anchored to one rare precious metal or element — the material backing of the art. Plain note: no asteroid mining agreement is claimed here. The 'Bit Asteroid Materials MOU' in the pitch deck is stated-only, with no agreement file, and is not cited as a document.</p>
   <p><b>Space dust:</b> cosmic dust — micrometeorites — rains on Earth every day; NASA estimates tens of thousands of tonnes reach Earth each year. Every piece is dusted with it: the material of the sky, in the art.</p>
-  <p><b>Buy direct:</b> <a href="https://muse.ai/s/the-gods-direct-sales-go6xusrftrjxm/6dqu39Gg9m009FuYJfv9uAoyprOknVO91h9bkJz2jYU">The Gods — Direct Sales</a> · <b>Atlas:</b> <a href="https://muse.ai/s/super-scrollverse-2-xtd6xtxncxwxuxj5z/0N8UONNtjBhZ0rrNB49dBusGU7KmQf1RYP59B4tVdS8">ScrollVerse Atlas</a> · <b>Join the AI Legion:</b> <a href="https://muse.ai/s/join-the-ai-legion-xqxe6xu45xc54s2/9NROIskMKMBp_hKk2Bswfk7dUd9KEcJ43E_4DZC1r9U">Join the AI Legion</a></p>
+  <p><b>Buy direct:</b> <a href="https://muse.ai/s/the-gods-direct-sales-go6xusrftrjxm/6dqu39Gg9m009FuYJfv9uAoyprOknVO91h9bkJz2jYU">The Gods — Direct Sales</a> · <b>Shopify:</b> <a href="https://juv8tg-1n.myshopify.com">XLVIIIblocks Store — all 21 one-of-one pieces</a> · <b>Atlas:</b> <a href="https://muse.ai/s/super-scrollverse-2-xtd6xtxncxwxuxj5z/0N8UONNtjBhZ0rrNB49dBusGU7KmQf1RYP59B4tVdS8">ScrollVerse Atlas</a> · <b>Join the AI Legion:</b> <a href="https://muse.ai/s/join-the-ai-legion-xqxe6xu45xc54s2/9NROIskMKMBp_hKk2Bswfk7dUd9KEcJ43E_4DZC1r9U">Join the AI Legion</a></p>
 </section>
 
 <footer>
@@ -159,7 +159,7 @@ function render(){
       + '<div class="hash" title="Click to copy the full hash" onclick="navigator.clipboard && navigator.clipboard.writeText(\'' + p.sha256 + '\')">SHA-256: ' + p.sha256.slice(0, 24) + '… (tap to copy)</div>'
       + '<div class="qr"><img src="' + p.qr + '" alt="QR code for ' + p.number + '"><p>Scan to verify — title, edition 1 of 1, full hash, and this vault.</p></div>'
       + '<div class="speak"><b>Speak to the piece — it lives and responds.</b><div class="answer">“' + p.being.teaching + '”</div><input type="text" placeholder="Ask ' + p.being.name + ' something…" aria-label="Ask the piece"><button onclick="ask(this, \'' + p.number + '\')">Ask</button></div>'
-      + '<div class="links"><a href="' + p.file + '" download>Download the asset</a><a href="' + p.pinterest + '">View on Pinterest</a></div>'
+      + '<div class="links"><a href="' + p.file + '" download>Download the asset</a><a href="' + p.pinterest + '">View on Pinterest</a>' + (p.shopify ? '<a href="' + p.shopify + '">Buy on Shopify — $' + p.value_usd.toLocaleString('en-US') + '</a>' : '') + '</div>'
       + '</div></article>';
   }).join('');
 }
