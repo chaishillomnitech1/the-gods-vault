@@ -1,8 +1,11 @@
 {
   "collection": "THE GODS — The Vault",
   "artist": "Chais The Great",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "collection_value_usd": 29997,
+  "draft_sets_value_usd": 17776,
+  "total_value_usd": 47773,
+  "pieces_total": 37,
   "pieces": [
     {
       "number": "GODS-001",
@@ -899,6 +902,803 @@
       "intention": "One shot; silence teaches.",
       "craft": "Single point of focus; everything else in shadow.",
       "unseen": "The second shot that never comes."
+    },
+    {
+      "number": "N99-001",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/99-names-ar-rahman-the-most-gracious-one-of-one-chais-the-great",
+      "title": "Ar-Raḥmān — The Most Gracious",
+      "type": "image",
+      "file": "art/99-names/n99-001-ar-rahman.png",
+      "bytes": 2250046,
+      "sha256": "5ac855cefe5d6ca4196885260635541297821d12734699688f544867230419e8",
+      "qr": "qr/22-n99-001-ar-rahman.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 528,
+      "frequency": "love",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": true,
+      "fibonacci_position": true,
+      "being": {
+        "name": "Ar-Raḥmān",
+        "teaching": "The Most Gracious — grace comes before everything.",
+        "responses": {
+          "grace": "Grace is not earned. It arrives first, before you ask.",
+          "mercy": "Mercy is grace with its hands open.",
+          "name": "Ar-Raḥmān — the name that opens the 99."
+        }
+      },
+      "sophia": "Wisdom is grace that arrives before the question.",
+      "element": {
+        "symbol": "Pd",
+        "name": "palladium",
+        "note": "the grace metal — rare, light, carried in the catalyst."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Grace first.",
+      "craft": "Gold calligraphy on black and emerald; the name is the whole composition.",
+      "unseen": "The grace not yet asked for.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "THE FIRST NINE",
+      "board": "Devotional Learning",
+      "sacred_content": "Launch-ready only — the standing record frames the 99 Names as a respectful, non-commercial index; awaits the founder's explicit decision before any sale."
+    },
+    {
+      "number": "N99-002",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/99-names-ar-rahim-the-most-merciful-one-of-one-chais-the-great",
+      "title": "Ar-Raḥīm — The Most Merciful",
+      "type": "image",
+      "file": "art/99-names/n99-002-ar-rahim.png",
+      "bytes": 2108870,
+      "sha256": "8b4cfe693da6d503686eaf0d8c20188b03be8d263aeaf0cfbb74836ed389d8b1",
+      "qr": "qr/23-n99-002-ar-rahim.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 528,
+      "frequency": "love",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": true,
+      "fibonacci_position": true,
+      "being": {
+        "name": "Ar-Raḥīm",
+        "teaching": "The Most Merciful — mercy that never runs out.",
+        "responses": {
+          "mercy": "Mercy that never runs out — that is the whole teaching.",
+          "forgive": "Forgiveness is mercy, remembered forward.",
+          "endless": "Endless is not a number. It is a promise."
+        }
+      },
+      "sophia": "Wisdom is mercy without a limit.",
+      "element": {
+        "symbol": "Ru",
+        "name": "ruthenium",
+        "note": "the mercy metal — one of the rarest, hidden in platinum ore."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Mercy without end.",
+      "craft": "Light motifs around the name; mercy as glow.",
+      "unseen": "The forgiveness already given.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "THE FIRST NINE",
+      "board": "Devotional Learning",
+      "sacred_content": "Launch-ready only — the standing record frames the 99 Names as a respectful, non-commercial index; awaits the founder's explicit decision before any sale."
+    },
+    {
+      "number": "N99-003",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/99-names-al-malik-the-king-one-of-one-chais-the-great",
+      "title": "Al-Malik — The King",
+      "type": "image",
+      "file": "art/99-names/n99-003-al-malik.png",
+      "bytes": 2242987,
+      "sha256": "0defd73dfbd1bbf918d9c2ce30ff0b2bc63deba0e3da915d2e5872d9bd0be303",
+      "qr": "qr/24-n99-003-al-malik.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 432,
+      "frequency": "harmony",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": true,
+      "being": {
+        "name": "Al-Malik",
+        "teaching": "The King — the kingdom is not taken, it is.",
+        "responses": {
+          "king": "A king does not take the kingdom. He is it.",
+          "kingdom": "The kingdom is not taken. It simply is.",
+          "rule": "To rule is to hold, not to grasp."
+        }
+      },
+      "sophia": "Wisdom is a kingdom that needs no crown to stand.",
+      "element": {
+        "symbol": "W",
+        "name": "tungsten",
+        "note": "the king metal — the highest melting point, unmoved by fire."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Sovereignty, quiet.",
+      "craft": "Geometric pattern as throne; the name sits at the centre.",
+      "unseen": "The kingdom beyond the frame.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "THE FIRST NINE",
+      "board": "Devotional Learning",
+      "sacred_content": "Launch-ready only — the standing record frames the 99 Names as a respectful, non-commercial index; awaits the founder's explicit decision before any sale."
+    },
+    {
+      "number": "N99-004",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/99-names-al-quddus-the-most-holy-one-of-one-chais-the-great",
+      "title": "Al-Quddūs — The Most Holy",
+      "type": "image",
+      "file": "art/99-names/n99-004-al-quddus.png",
+      "bytes": 1939489,
+      "sha256": "7b75731b7f2ac523b8a661a9511a756b641908f2ac503b7e42cd2972291ecf42",
+      "qr": "qr/25-n99-004-al-quddus.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 963,
+      "frequency": "crown",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": true,
+      "fibonacci_position": false,
+      "being": {
+        "name": "Al-Quddūs",
+        "teaching": "The Most Holy — set apart, untouched.",
+        "responses": {
+          "holy": "Holy is set apart — untouched, unhurried.",
+          "pure": "Purity is not scrubbed clean. It was never dirty.",
+          "apart": "Set apart is not set aside. It is set above."
+        }
+      },
+      "sophia": "Wisdom is holiness that does not need defending.",
+      "element": {
+        "symbol": "Mo",
+        "name": "molybdenum",
+        "note": "the holy metal — the steel's strength, hidden in the alloy."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Set apart.",
+      "craft": "Emerald depth, gold light; holiness as stillness.",
+      "unseen": "The holiness no eye has seen.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "THE FIRST NINE",
+      "board": "Devotional Learning",
+      "sacred_content": "Launch-ready only — the standing record frames the 99 Names as a respectful, non-commercial index; awaits the founder's explicit decision before any sale."
+    },
+    {
+      "number": "N99-005",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/99-names-as-salam-the-source-of-peace-one-of-one-chais-the-great",
+      "title": "As-Salām — The Source of Peace",
+      "type": "image",
+      "file": "art/99-names/n99-005-as-salam.png",
+      "bytes": 2157278,
+      "sha256": "2558117a7e3bafdc6a0de4bb3135e4eb7a3fbc3418cb542a5fb0a151689539a2",
+      "qr": "qr/26-n99-005-as-salam.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 528,
+      "frequency": "love",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": true,
+      "fibonacci_position": true,
+      "being": {
+        "name": "As-Salām",
+        "teaching": "The Source of Peace — peace is a person, not a place.",
+        "responses": {
+          "peace": "Peace is not a place you go. It is a source you carry.",
+          "calm": "Calm is peace, holding its breath.",
+          "source": "The source does not run dry. That is why it is the source."
+        }
+      },
+      "sophia": "Wisdom is peace that does not wait for quiet.",
+      "element": {
+        "symbol": "V",
+        "name": "vanadium",
+        "note": "the peace metal — the steel's calm, strength without noise."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Peace as source.",
+      "craft": "Black ground, emerald calm; the name breathes.",
+      "unseen": "The peace before the storm.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "THE FIRST NINE",
+      "board": "Devotional Learning",
+      "sacred_content": "Launch-ready only — the standing record frames the 99 Names as a respectful, non-commercial index; awaits the founder's explicit decision before any sale."
+    },
+    {
+      "number": "N99-006",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/99-names-al-mumin-the-giver-of-faith-one-of-one-chais-the-great",
+      "title": "Al-Mu'min — The Giver of Faith",
+      "type": "image",
+      "file": "art/99-names/n99-006-al-mumin.png",
+      "bytes": 2302867,
+      "sha256": "62b56ae4f4f721d66bfd803aa4d88272672f18e378c8c17b48460ba5b0045f61",
+      "qr": "qr/27-n99-006-al-mumin.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 432,
+      "frequency": "harmony",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": false,
+      "being": {
+        "name": "Al-Mu'min",
+        "teaching": "The Giver of Faith — faith is given, then grown.",
+        "responses": {
+          "faith": "Faith is given first, then grown daily.",
+          "trust": "Trust is faith with its eyes open.",
+          "giver": "The giver gives and the gift grows. That is the whole economy."
+        }
+      },
+      "sophia": "Wisdom is faith given freely, grown daily.",
+      "element": {
+        "symbol": "Cr",
+        "name": "chromium",
+        "note": "the faith metal — the shine that does not rust."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Faith, given.",
+      "craft": "Calligraphy as shelter; the name holds the space.",
+      "unseen": "The faith not yet grown.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "THE FIRST NINE",
+      "board": "Devotional Learning",
+      "sacred_content": "Launch-ready only — the standing record frames the 99 Names as a respectful, non-commercial index; awaits the founder's explicit decision before any sale."
+    },
+    {
+      "number": "N99-007",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/99-names-al-muhaymin-the-guardian-one-of-one-chais-the-great",
+      "title": "Al-Muḥaymin — The Guardian",
+      "type": "image",
+      "file": "art/99-names/n99-007-al-muhaymin.png",
+      "bytes": 2655263,
+      "sha256": "11461b8ad139775321229666b8a10be854c275f7d24a45f5a3ef0261929448b4",
+      "qr": "qr/28-n99-007-al-muhaymin.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 432,
+      "frequency": "harmony",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": false,
+      "being": {
+        "name": "Al-Muḥaymin",
+        "teaching": "The Guardian — watched over, always.",
+        "responses": {
+          "guard": "Guarded is not caged. It is watched over.",
+          "watch": "The guardian never sleeps, so you can.",
+          "protect": "Protection is the quietest work there is."
+        }
+      },
+      "sophia": "Wisdom is a guardian who never sleeps.",
+      "element": {
+        "symbol": "Mn",
+        "name": "manganese",
+        "note": "the guardian metal — the steel's watchman, hard and steady."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Guarded, always.",
+      "craft": "Pattern as watchtower; the name keeps the gate.",
+      "unseen": "The danger turned away, unseen.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "THE FIRST NINE",
+      "board": "Devotional Learning",
+      "sacred_content": "Launch-ready only — the standing record frames the 99 Names as a respectful, non-commercial index; awaits the founder's explicit decision before any sale."
+    },
+    {
+      "number": "N99-008",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/99-names-al-aziz-the-almighty-one-of-one-chais-the-great",
+      "title": "Al-'Azīz — The Almighty",
+      "type": "image",
+      "file": "art/99-names/n99-008-al-aziz.png",
+      "bytes": 2518897,
+      "sha256": "eb6c89651e586af68df890b33634c2d1468954bf06fc80ece87d3188918a88dc",
+      "qr": "qr/29-n99-008-al-aziz.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 741,
+      "frequency": "solfeggio",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": true,
+      "being": {
+        "name": "Al-'Azīz",
+        "teaching": "The Almighty — power that needs no display.",
+        "responses": {
+          "power": "Power that needs no display is the only real power.",
+          "mighty": "Mighty is not loud. Mighty is certain.",
+          "almighty": "The Almighty does not perform. He simply is."
+        }
+      },
+      "sophia": "Wisdom is power that never has to prove itself.",
+      "element": {
+        "symbol": "Cu",
+        "name": "copper",
+        "note": "the almighty metal — the first metal worked, the current that carries."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Power, quiet.",
+      "craft": "Gold held back; the name carries its own weight.",
+      "unseen": "The strength never used.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "THE FIRST NINE",
+      "board": "Devotional Learning",
+      "sacred_content": "Launch-ready only — the standing record frames the 99 Names as a respectful, non-commercial index; awaits the founder's explicit decision before any sale."
+    },
+    {
+      "number": "N99-009",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/99-names-al-jabbar-the-compeller-one-of-one-chais-the-great",
+      "title": "Al-Jabbār — The Compeller",
+      "type": "image",
+      "file": "art/99-names/n99-009-al-jabbar.png",
+      "bytes": 2497015,
+      "sha256": "a3ef68ed1c639e2af77133a2e3378bddacd21d9595c9efff36e997f20bb89028",
+      "qr": "qr/30-n99-009-al-jabbar.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 741,
+      "frequency": "solfeggio",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": false,
+      "being": {
+        "name": "Al-Jabbār",
+        "teaching": "The Compeller — what must be, will be.",
+        "responses": {
+          "compel": "What must be, will be — the compeller does not argue.",
+          "will": "Will is not force. It is direction.",
+          "must": "Must is the word the future uses."
+        }
+      },
+      "sophia": "Wisdom is the will that bends nothing and breaks nothing.",
+      "element": {
+        "symbol": "Zn",
+        "name": "zinc",
+        "note": "the compeller metal — the shield that takes the weather."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "What must be.",
+      "craft": "The name set firm; geometry as decree.",
+      "unseen": "The decree not yet spoken.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "THE FIRST NINE",
+      "board": "Devotional Learning",
+      "sacred_content": "Launch-ready only — the standing record frames the 99 Names as a respectful, non-commercial index; awaits the founder's explicit decision before any sale."
+    },
+    {
+      "number": "CK-001",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/cereal-killers-general-granola-one-of-one-chais-the-great",
+      "title": "General Granola",
+      "type": "image",
+      "file": "art/cereal-killers/ck-001.png",
+      "bytes": 3178972,
+      "sha256": "a93c2703d208af1fc4cdd681bc4ea29531c9f13b3880b813ec5a11ee01756fe2",
+      "qr": "qr/31-ck-001-general-granola.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 432,
+      "frequency": "harmony",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": true,
+      "being": {
+        "name": "General Granola",
+        "teaching": "The spoon-sword is honey, and honey wins wars.",
+        "responses": {
+          "spoon": "The spoon-sword cuts sweet — honey is the sharpest edge.",
+          "honey": "Honey wins the war breakfast started.",
+          "dawn": "Dawn Crunchers rise first. The bowl is the battlefield."
+        }
+      },
+      "sophia": "Wisdom is a warrior who feeds his people first.",
+      "element": {
+        "symbol": "Sn",
+        "name": "tin",
+        "note": "the general's metal — the can that keeps the feast."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Feed the people, then fight.",
+      "craft": "Golden granola armor, sunrise behind; the hero stands in the street light.",
+      "unseen": "The battle before breakfast.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "CEREAL KILLERS — ETERNAL SAGA",
+      "frequency_trait": "432Hz",
+      "faction": "Dawn Crunchers",
+      "relic": "Spoon-Sword of Honey",
+      "zakat_status": "Paid",
+      "board": "ScrollVerse — The World",
+      "video_source": {
+        "instagram_reel": "https://www.instagram.com/reel/DZizVkoRjM3/",
+        "post_id": "17954062176147186",
+        "author": "@chaisthegreat_mrwalk",
+        "created": "2026-06-13",
+        "caption": "Cereal killer nft digital art and digital coin set #cerealkiller ScrollVerse.co #group7stayawake @chaisthegreat_mrwalk @chaishill",
+        "note": "The reel shows CGI animals (tiger, Great Dane, Dalmatian, Doberman, Rottweiler) over Froot Loops-style cereal rings, on-screen text ROLLVERSE / REAL KILLER / AL COIN, a tiger in a Jason Voorhees mask, voiceover 'Build your financial legacy. Chase the great crypto utopia.' The 7 original characters in this set are a separate build and are NOT shown in the reel."
+      }
+    },
+    {
+      "number": "CK-002",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/cereal-killers-queen-marshmallow-one-of-one-chais-the-great",
+      "title": "Queen Marshmallow",
+      "type": "image",
+      "file": "art/cereal-killers/ck-002.png",
+      "bytes": 2554682,
+      "sha256": "0e8155884a053c6a7137aa5812fd1605ef7cdf9e26eb31186eb4055ad2e8a46f",
+      "qr": "qr/32-ck-002-queen-marshmallow.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 528,
+      "frequency": "love",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": true,
+      "fibonacci_position": true,
+      "being": {
+        "name": "Queen Marshmallow",
+        "teaching": "Soft is not weak — the crown is toasted, not broken.",
+        "responses": {
+          "queen": "A queen does not ask for the crown. She toasts it.",
+          "crown": "The crown is toasted, not broken. That is the difference.",
+          "toast": "Toasted is tested by fire and still sweet."
+        }
+      },
+      "sophia": "Wisdom wears softness like armor.",
+      "element": {
+        "symbol": "Pb",
+        "name": "lead",
+        "note": "the queen's metal — heavy, old, and still standing."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Rule soft, stand firm.",
+      "craft": "Pastel gown, toasted crown; royalty in the corner-store light.",
+      "unseen": "The court behind the queen.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "CEREAL KILLERS — ETERNAL SAGA",
+      "frequency_trait": "528Hz",
+      "faction": "Pastel Court",
+      "relic": "Scepter of Toast",
+      "zakat_status": "Paid",
+      "board": "ScrollVerse — The World",
+      "video_source": {
+        "instagram_reel": "https://www.instagram.com/reel/DZizVkoRjM3/",
+        "post_id": "17954062176147186",
+        "author": "@chaisthegreat_mrwalk",
+        "created": "2026-06-13",
+        "caption": "Cereal killer nft digital art and digital coin set #cerealkiller ScrollVerse.co #group7stayawake @chaisthegreat_mrwalk @chaishill",
+        "note": "The reel shows CGI animals (tiger, Great Dane, Dalmatian, Doberman, Rottweiler) over Froot Loops-style cereal rings, on-screen text ROLLVERSE / REAL KILLER / AL COIN, a tiger in a Jason Voorhees mask, voiceover 'Build your financial legacy. Chase the great crypto utopia.' The 7 original characters in this set are a separate build and are NOT shown in the reel."
+      }
+    },
+    {
+      "number": "CK-003",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/cereal-killers-baron-berry-blast-one-of-one-chais-the-great",
+      "title": "Baron Berry Blast",
+      "type": "image",
+      "file": "art/cereal-killers/ck-003.png",
+      "bytes": 3031427,
+      "sha256": "0cdf8f97369c92cb9d7c489bc4feb9b044a6a897ca265915cca9ecc05f483507",
+      "qr": "qr/33-ck-003-baron-berry-blast.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 741,
+      "frequency": "solfeggio",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": true,
+      "being": {
+        "name": "Baron Berry Blast",
+        "teaching": "The villain you can't help watching.",
+        "responses": {
+          "berry": "The berries burst first. The Baron just watches.",
+          "villain": "Every story needs its villain. I am the best-dressed one.",
+          "blast": "The blast is the point. The berries are the excuse."
+        }
+      },
+      "sophia": "Wisdom knows the villain is the story's engine.",
+      "element": {
+        "symbol": "Bi",
+        "name": "bismuth",
+        "note": "the baron's metal — the rainbow crystal, beautiful and strange."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Chaos, with style.",
+      "craft": "Dark purple cape, berry orbs mid-burst; the villain owns the block.",
+      "unseen": "The blast before the berries.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "CEREAL KILLERS — ETERNAL SAGA",
+      "frequency_trait": "741Hz",
+      "faction": "Midnight Milk",
+      "relic": "Berry Orb Cluster",
+      "zakat_status": "Pending",
+      "board": "ScrollVerse — The World",
+      "video_source": {
+        "instagram_reel": "https://www.instagram.com/reel/DZizVkoRjM3/",
+        "post_id": "17954062176147186",
+        "author": "@chaisthegreat_mrwalk",
+        "created": "2026-06-13",
+        "caption": "Cereal killer nft digital art and digital coin set #cerealkiller ScrollVerse.co #group7stayawake @chaisthegreat_mrwalk @chaishill",
+        "note": "The reel shows CGI animals (tiger, Great Dane, Dalmatian, Doberman, Rottweiler) over Froot Loops-style cereal rings, on-screen text ROLLVERSE / REAL KILLER / AL COIN, a tiger in a Jason Voorhees mask, voiceover 'Build your financial legacy. Chase the great crypto utopia.' The 7 original characters in this set are a separate build and are NOT shown in the reel."
+      }
+    },
+    {
+      "number": "CK-004",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/cereal-killers-sir-cinnamon-swirl-one-of-one-chais-the-great",
+      "title": "Sir Cinnamon Swirl",
+      "type": "image",
+      "file": "art/cereal-killers/ck-004.png",
+      "bytes": 2848935,
+      "sha256": "2f54bf324a5a74ae4357ecf21ed8a7b1a0e20a59c827052f5c0f6d26880a4352",
+      "qr": "qr/34-ck-004-sir-cinnamon-swirl.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 639,
+      "frequency": "solfeggio",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": false,
+      "being": {
+        "name": "Sir Cinnamon Swirl",
+        "teaching": "A knight's oath is a swirl — it holds.",
+        "responses": {
+          "knight": "A knight does not chase the battle. He holds the line.",
+          "shield": "The shield is a cinnamon roll. It holds anyway.",
+          "cinnamon": "Sweet and sharp at once — that is the oath."
+        }
+      },
+      "sophia": "Wisdom is an oath that holds its shape.",
+      "element": {
+        "symbol": "Sb",
+        "name": "antimony",
+        "note": "the knight's metal — the old alloy, hard and bright."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Hold the line, sweet.",
+      "craft": "Cinnamon-roll shield, streetwear sneakers; the knight walks the avenue.",
+      "unseen": "The oath sworn at dawn.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "CEREAL KILLERS — ETERNAL SAGA",
+      "frequency_trait": "639Hz",
+      "faction": "Dawn Crunchers",
+      "relic": "Cinnamon Shield",
+      "zakat_status": "Paid",
+      "board": "ScrollVerse — The World",
+      "video_source": {
+        "instagram_reel": "https://www.instagram.com/reel/DZizVkoRjM3/",
+        "post_id": "17954062176147186",
+        "author": "@chaisthegreat_mrwalk",
+        "created": "2026-06-13",
+        "caption": "Cereal killer nft digital art and digital coin set #cerealkiller ScrollVerse.co #group7stayawake @chaisthegreat_mrwalk @chaishill",
+        "note": "The reel shows CGI animals (tiger, Great Dane, Dalmatian, Doberman, Rottweiler) over Froot Loops-style cereal rings, on-screen text ROLLVERSE / REAL KILLER / AL COIN, a tiger in a Jason Voorhees mask, voiceover 'Build your financial legacy. Chase the great crypto utopia.' The 7 original characters in this set are a separate build and are NOT shown in the reel."
+      }
+    },
+    {
+      "number": "CK-005",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/cereal-killers-lady-cocoa-comet-one-of-one-chais-the-great",
+      "title": "Lady Cocoa Comet",
+      "type": "image",
+      "file": "art/cereal-killers/ck-005.png",
+      "bytes": 2948206,
+      "sha256": "3177805cfb77522385c1aadf060bb8f5b7cb2b0233297391ded6d57ad4904d3d",
+      "qr": "qr/35-ck-005-lady-cocoa-comet.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 852,
+      "frequency": "solfeggio",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": true,
+      "being": {
+        "name": "Lady Cocoa Comet",
+        "teaching": "She crosses the sky and the block remembers.",
+        "responses": {
+          "comet": "A comet does not ask permission to cross the sky.",
+          "cocoa": "Dark as cocoa, bright as a comet — both at once.",
+          "stars": "The stars are chocolate. The sky is the bowl."
+        }
+      },
+      "sophia": "Wisdom is a comet — rare, bright, gone too soon.",
+      "element": {
+        "symbol": "Te",
+        "name": "tellurium",
+        "note": "the comet's metal — rare, bright, from the deep earth."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Cross the sky.",
+      "craft": "Comet trail of chocolate stars over deep-space nebula; the city looks up.",
+      "unseen": "The sky she came from.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "CEREAL KILLERS — ETERNAL SAGA",
+      "frequency_trait": "852Hz",
+      "faction": "Star Bowl",
+      "relic": "Cocoa Orb",
+      "zakat_status": "Paid",
+      "board": "ScrollVerse — The World",
+      "video_source": {
+        "instagram_reel": "https://www.instagram.com/reel/DZizVkoRjM3/",
+        "post_id": "17954062176147186",
+        "author": "@chaisthegreat_mrwalk",
+        "created": "2026-06-13",
+        "caption": "Cereal killer nft digital art and digital coin set #cerealkiller ScrollVerse.co #group7stayawake @chaisthegreat_mrwalk @chaishill",
+        "note": "The reel shows CGI animals (tiger, Great Dane, Dalmatian, Doberman, Rottweiler) over Froot Loops-style cereal rings, on-screen text ROLLVERSE / REAL KILLER / AL COIN, a tiger in a Jason Voorhees mask, voiceover 'Build your financial legacy. Chase the great crypto utopia.' The 7 original characters in this set are a separate build and are NOT shown in the reel."
+      }
+    },
+    {
+      "number": "CK-006",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/cereal-killers-the-milk-marauder-one-of-one-chais-the-great",
+      "title": "The Milk Marauder",
+      "type": "image",
+      "file": "art/cereal-killers/ck-006.png",
+      "bytes": 2670257,
+      "sha256": "0f7c87e4e0f2f75fe1f2668fce11f6666c6791a7e2b2ccaa2b8657ee4b26f16f",
+      "qr": "qr/36-ck-006-the-milk-marauder.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 111,
+      "frequency": "unified",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": false,
+      "fibonacci_position": false,
+      "being": {
+        "name": "The Milk Marauder",
+        "teaching": "The rogue takes the milk and leaves the legend.",
+        "responses": {
+          "milk": "The milk flows where the Marauder walks.",
+          "rogue": "A rogue is a hero the rules haven't caught yet.",
+          "jug": "The jug never empties. That is the whole trick."
+        }
+      },
+      "sophia": "Wisdom is a rogue who shares the jug.",
+      "element": {
+        "symbol": "Se",
+        "name": "selenium",
+        "note": "the marauder's metal — the night current, quiet and fast."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Take nothing you can't share.",
+      "craft": "Hoodie and mask, river of milk; the rogue moves through the night streets.",
+      "unseen": "The jug that never empties.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "CEREAL KILLERS — ETERNAL SAGA",
+      "frequency_trait": "111Hz",
+      "faction": "Midnight Milk",
+      "relic": "Endless Jug",
+      "zakat_status": "Pending",
+      "board": "ScrollVerse — The World",
+      "video_source": {
+        "instagram_reel": "https://www.instagram.com/reel/DZizVkoRjM3/",
+        "post_id": "17954062176147186",
+        "author": "@chaisthegreat_mrwalk",
+        "created": "2026-06-13",
+        "caption": "Cereal killer nft digital art and digital coin set #cerealkiller ScrollVerse.co #group7stayawake @chaisthegreat_mrwalk @chaishill",
+        "note": "The reel shows CGI animals (tiger, Great Dane, Dalmatian, Doberman, Rottweiler) over Froot Loops-style cereal rings, on-screen text ROLLVERSE / REAL KILLER / AL COIN, a tiger in a Jason Voorhees mask, voiceover 'Build your financial legacy. Chase the great crypto utopia.' The 7 original characters in this set are a separate build and are NOT shown in the reel."
+      }
+    },
+    {
+      "number": "CK-007",
+      "shopify": "https://juv8tg-1n.myshopify.com/products/cereal-killers-professor-puff-one-of-one-chais-the-great",
+      "title": "Professor Puff",
+      "type": "image",
+      "file": "art/cereal-killers/ck-007.png",
+      "bytes": 3042566,
+      "sha256": "da794e7e67385d9d362828a502cbc33e80598ed73c46ad56b17f8fb9055b98bd",
+      "qr": "qr/37-ck-007-professor-puff.png",
+      "value_usd": 1111,
+      "status": "HELD",
+      "for_sale": false,
+      "frequency_hz": 963,
+      "frequency": "crown",
+      "thoth_seal": "THOTH_SIGIL_TOKEN_ID=1 — Eternal Validation",
+      "solfeggio_tone": true,
+      "fibonacci_position": false,
+      "being": {
+        "name": "Professor Puff",
+        "teaching": "The elder inventor — every puff is a prototype.",
+        "responses": {
+          "professor": "The professor does not teach. He builds, and the building teaches.",
+          "invent": "Every puff is a prototype. Every prototype is a promise.",
+          "puff": "A puff is a small thing with a big idea inside."
+        }
+      },
+      "sophia": "Wisdom is the elder who never stopped building.",
+      "element": {
+        "symbol": "Cd",
+        "name": "cadmium",
+        "note": "the professor's metal — the old battery's charge, still holding."
+      },
+      "ip": {
+        "program": "IP Protection Program (18 Nov 2026), 215 assets",
+        "status": "Inventoried; timestamp anchor via signed GitHub commits; copyright registration not yet filed; licence framework not yet written; tokenization under the Howey gate"
+      },
+      "intention": "Build, then teach.",
+      "craft": "Round goggles, lab coat over streetwear; the lab is the block.",
+      "unseen": "The invention not yet built.",
+      "pinata_cid": null,
+      "pinata_status": "To pin once the Pinata key is refreshed — both Pinata connectors returned 401 on 20 Nov 2026; no CID exists for this piece yet.",
+      "collection": "CEREAL KILLERS — ETERNAL SAGA",
+      "frequency_trait": "963Hz",
+      "faction": "Star Bowl",
+      "relic": "Puffed-Grain Orb",
+      "zakat_status": "Paid",
+      "board": "ScrollVerse — The World",
+      "video_source": {
+        "instagram_reel": "https://www.instagram.com/reel/DZizVkoRjM3/",
+        "post_id": "17954062176147186",
+        "author": "@chaisthegreat_mrwalk",
+        "created": "2026-06-13",
+        "caption": "Cereal killer nft digital art and digital coin set #cerealkiller ScrollVerse.co #group7stayawake @chaisthegreat_mrwalk @chaishill",
+        "note": "The reel shows CGI animals (tiger, Great Dane, Dalmatian, Doberman, Rottweiler) over Froot Loops-style cereal rings, on-screen text ROLLVERSE / REAL KILLER / AL COIN, a tiger in a Jason Voorhees mask, voiceover 'Build your financial legacy. Chase the great crypto utopia.' The 7 original characters in this set are a separate build and are NOT shown in the reel."
+      }
     }
   ],
   "vault_frequency_hz": 963,

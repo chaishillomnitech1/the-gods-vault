@@ -145,3 +145,80 @@ Muse hold them.
 - **FIRST-005 — The Wing — OG Anunoby** — Edition 1 of 1 — SHA-256 `64af2f6964273a268825e4007ff1153324a7f18b8ea3185383fd3d66d05e8e48` — Value $1,111 — Frequency 528Hz love — Grade: Museum grade (artist's designation) — Status HELD
 - **FIRST-006 — The Tower — Towns** — Edition 1 of 1 — SHA-256 `06324ea5af9edd95065fbb02d264448812ff3de8eeea94ad5f5b63c03ae7616a` — Value $1,111 — Frequency 777Hz activation — Grade: Museum grade (artist's designation) — Status HELD
 - **FIRST-007 — The Assassin — Bernard King** — Edition 1 of 1 — SHA-256 `6fadd3314911a39f80c1f19a0903a46f2d4aab0a1565b0c66e6cb9bd910ddc1d` — Value $1,111 — Frequency 369Hz vortex — Grade: Museum grade (artist's designation) — Status HELD
+
+
+## THE FIRST NINE — 99 Names of Allah, Set 1 — Certificates (20 Nov 2026)
+
+Nine one-of-one pieces — the first nine names in the traditional Asma ul-Husna order. Gold Arabic calligraphy of the name on deep black / emerald, geometric Islamic patterns, light motifs. No human figures, no depiction of Allah — calligraphy + geometry only. Reverent, never casual. **Status: DRAFT — held in the Vault, not for sale.**
+
+**Sacred-content decision — OPEN.** The standing record frames the 99 Names as a respectful, non-commercial index for visitors who choose to study the Divine Names (Super ScrollVerse 2 wheel, "99 Names Learning"). A 99 Names set for sale would cut against that framing. The set stays launch-ready only and waits on Chais's explicit decision — whether the 99 Names may be sold, offered free, or held as a learning index only. No mint, deploy, sale, or pre-sale until he decides.
+
+**AI-generated Arabic calligraphy — VERIFY BEFORE LAUNCH.** The calligraphy in these nine images was AI-generated. Before any piece goes public, the Arabic lettering in each image must be checked by eye (correct spelling, correct diacritics, no garbled or extra letters).
+
+**Mint gate — NOT cleared.** No mint / deploy / sell / pre-sale before a written per-asset Howey attorney analysis + founder sign-off.
+
+**Pinata:** no CIDs yet — to pin once the Pinata key is refreshed (both connectors returned 401 on 20 Nov 2026).
+
+**Sealed elements:** not yet written for these nine pieces. Nothing is invented here — the sealed element for each piece is assigned by the founder and recorded in the private sealed record when the piece is ready; until then it does not exist.
+
+| No. | Piece | File (bytes) | SHA-256 | QR |
+|-----|-------|--------------|---------|----|
+| N99-001 | Ar-Raḥmān — The Most Gracious | n99-001-ar-rahman.png (2,250,046) | `5ac855cefe5d6ca4196885260635541297821d12734699688f544867230419e8` | `qr/22-n99-001-ar-rahman.png` |
+| N99-002 | Ar-Raḥīm — The Most Merciful | n99-002-ar-rahim.png (2,108,870) | `8b4cfe693da6d503686eaf0d8c20188b03be8d263aeaf0cfbb74836ed389d8b1` | `qr/23-n99-002-ar-rahim.png` |
+| N99-003 | Al-Malik — The King | n99-003-al-malik.png (2,242,987) | `0defd73dfbd1bbf918d9c2ce30ff0b2bc63deba0e3da915d2e5872d9bd0be303` | `qr/24-n99-003-al-malik.png` |
+| N99-004 | Al-Quddūs — The Most Holy | n99-004-al-quddus.png (1,939,489) | `7b75731b7f2ac523b8a661a9511a756b641908f2ac503b7e42cd2972291ecf42` | `qr/25-n99-004-al-quddus.png` |
+| N99-005 | As-Salām — The Source of Peace | n99-005-as-salam.png (2,157,278) | `2558117a7e3bafdc6a0de4bb3135e4eb7a3fbc3418cb542a5fb0a151689539a2` | `qr/26-n99-005-as-salam.png` |
+| N99-006 | Al-Mu'min — The Giver of Faith | n99-006-al-mumin.png (2,302,867) | `62b56ae4f4f721d66bfd803aa4d88272672f18e378c8c17b48460ba5b0045f61` | `qr/27-n99-006-al-mumin.png` |
+| N99-007 | Al-Muḥaymin — The Guardian | n99-007-al-muhaymin.png (2,655,263) | `11461b8ad139775321229666b8a10be854c275f7d24a45f5a3ef0261929448b4` | `qr/28-n99-007-al-muhaymin.png` |
+| N99-008 | Al-'Azīz — The Almighty | n99-008-al-aziz.png (2,518,897) | `eb6c89651e586af68df890b33634c2d1468954bf06fc80ece87d3188918a88dc` | `qr/29-n99-008-al-aziz.png` |
+| N99-009 | Al-Jabbār — The Compeller | n99-009-al-jabbar.png (2,497,015) | `a3ef68ed1c639e2af77133a2e3378bddacd21d9595c9efff36e997f20bb89028` | `qr/30-n99-009-al-jabbar.png` |
+
+| No. | Piece | Code (SHA-256, first 12) | Status | Buyer | Date sold |
+|-----|-------|---------------------------|--------|-------|-----------|
+| N99-001 | Ar-Raḥmān — The Most Gracious | `5ac855cefe5d` | HELD — DRAFT | — | — |
+| N99-002 | Ar-Raḥīm — The Most Merciful | `8b4cfe693da6` | HELD — DRAFT | — | — |
+| N99-003 | Al-Malik — The King | `0defd73dfbd1` | HELD — DRAFT | — | — |
+| N99-004 | Al-Quddūs — The Most Holy | `7b75731b7f2a` | HELD — DRAFT | — | — |
+| N99-005 | As-Salām — The Source of Peace | `2558117a7e3b` | HELD — DRAFT | — | — |
+| N99-006 | Al-Mu'min — The Giver of Faith | `62b56ae4f4f7` | HELD — DRAFT | — | — |
+| N99-007 | Al-Muhaymin — The Guardian | `11461b8ad139` | HELD — DRAFT | — | — |
+| N99-008 | Al-'Azīz — The Almighty | `eb6c89651e58` | HELD — DRAFT | — | — |
+| N99-009 | Al-Jabbār — The Compeller | `a3ef68ed1c63` | HELD — DRAFT | — | — |
+
+Hero looks (gallery presentation only — the framed piece in an elegant space, no street treatment, no likeness): `art/99-names/looks/n99-look-01-ar-rahman-gallery.jpg` (1280×1920, SHA-256 `7d7e9a883abe537fe83e0632dce2ac0b10df57ea56548b168f06dfbfab5767e0`), `art/99-names/looks/n99-look-02-al-malik-lounge.jpg` (1280×1920, SHA-256 `a3b88c613b73eb7568b474157fa982feba5850cc1387cf41381a45e9c5e99f7a`).
+
+## CEREAL KILLERS — "Eternal Saga — Set 1" — Certificates (20 Nov 2026)
+
+Seven original one-of-one pieces, tracking CK-001–007. Bold streetwear characters, urban looks — street first, cool and impactful, future-type vibes as seasoning, every piece one-of-one, not like anyone else's, unmistakably Chais the Great. All 7 characters are ORIGINAL creations. No real people, no existing brand mascots. **Status: DRAFT — held in the Vault, not for sale.**
+
+**Video source:** the Cereal Killers video is the artist's Instagram reel https://www.instagram.com/reel/DZizVkoRjM3/ (@chaisthegreat_mrwalk, 13 Jun 2026, post ID 17954062176147186). Exact caption: "Cereal killer nft digital art and digital coin set #cerealkiller ScrollVerse.co #group7stayawake @chaisthegreat_mrwalk @chaishill". The reel shows CGI animals (tiger, Great Dane, Dalmatian, Doberman, Rottweiler) over Froot Loops-style cereal rings, on-screen text "ROLLVERSE / REAL KILLER / AL COIN", a tiger in a Jason Voorhees mask, voiceover "Build your financial legacy. Chase the great crypto utopia." The 7 original characters in this set are a separate build and are NOT shown in the reel. Video-41 remains UNCONFIRMED and is not claimed as the Cereal Killers video.
+
+**Traits per piece:** Frequency / Faction / Relic / Zakat Status — see the set file. **No Cereal Killers coin in the Early Coins registry** — this set is NFTs only; the coin is a separate registration with its own gates.
+
+**Mint gate — NOT cleared.** No mint / deploy / sell / pre-sale before a written per-asset Howey attorney analysis + founder sign-off.
+
+**Pinata:** no CIDs yet — to pin once the Pinata key is refreshed (both connectors returned 401 on 20 Nov 2026).
+
+**Sealed elements:** not yet written for these seven pieces. Nothing is invented here — the sealed element for each piece is assigned by the founder and recorded in the private sealed record when the piece is ready; until then it does not exist.
+
+| No. | Piece | File (bytes) | SHA-256 | QR |
+|-----|-------|--------------|---------|----|
+| CK-001 | General Granola | ck-001.png (3,178,972) | `a93c2703d208af1fc4cdd681bc4ea29531c9f13b3880b813ec5a11ee01756fe2` | `qr/31-ck-001-general-granola.png` |
+| CK-002 | Queen Marshmallow | ck-002.png (2,554,682) | `0e8155884a053c6a7137aa5812fd1605ef7cdf9e26eb31186eb4055ad2e8a46f` | `qr/32-ck-002-queen-marshmallow.png` |
+| CK-003 | Baron Berry Blast | ck-003.png (3,031,427) | `0cdf8f97369c92cb9d7c489bc4feb9b044a6a897ca265915cca9ecc05f483507` | `qr/33-ck-003-baron-berry-blast.png` |
+| CK-004 | Sir Cinnamon Swirl | ck-004.png (2,848,935) | `2f54bf324a5a74ae4357ecf21ed8a7b1a0e20a59c827052f5c0f6d26880a4352` | `qr/34-ck-004-sir-cinnamon-swirl.png` |
+| CK-005 | Lady Cocoa Comet | ck-005.png (2,948,206) | `3177805cfb77522385c1aadf060bb8f5b7cb2b0233297391ded6d57ad4904d3d` | `qr/35-ck-005-lady-cocoa-comet.png` |
+| CK-006 | The Milk Marauder | ck-006.png (2,670,257) | `0f7c87e4e0f2f75fe1f2668fce11f6666c6791a7e2b2ccaa2b8657ee4b26f16f` | `qr/36-ck-006-the-milk-marauder.png` |
+| CK-007 | Professor Puff | ck-007.png (3,042,566) | `da794e7e67385d9d362828a502cbc33e80598ed73c46ad56b17f8fb9055b98bd` | `qr/37-ck-007-professor-puff.png` |
+
+| No. | Piece | Code (SHA-256, first 12) | Status | Buyer | Date sold |
+|-----|-------|---------------------------|--------|-------|-----------|
+| CK-001 | General Granola | `a93c2703d208` | HELD — DRAFT | — | — |
+| CK-002 | Queen Marshmallow | `0e8155884a05` | HELD — DRAFT | — | — |
+| CK-003 | Baron Berry Blast | `0cdf8f97369c` | HELD — DRAFT | — | — |
+| CK-004 | Sir Cinnamon Swirl | `2f54bf324a5a` | HELD — DRAFT | — | — |
+| CK-005 | Lady Cocoa Comet | `3177805cfb77` | HELD — DRAFT | — | — |
+| CK-006 | The Milk Marauder | `0f7c87e4e0f2` | HELD — DRAFT | — | — |
+| CK-007 | Professor Puff | `da794e7e6738` | HELD — DRAFT | — | — |
+
+Hero looks (XLVIIIblocks streetwear/lifestyle style — street first, cool and impactful): `art/cereal-killers/looks/look-01.jpg` (1280×1920, SHA-256 `ab0ff573b38976a2c83cd9334e42ac5723d86283d0d1fcbe5c1c0830ce14fad0`), `art/cereal-killers/looks/look-02.jpg` (1280×1920, SHA-256 `706432290eb64b5ed13dccba653869f988e8d48634ff7531316b62b7c1c5f846`). Look-03 (street-mural / corner-store style) follows when it lands — the placement was not held for it.
